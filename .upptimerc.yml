@@ -7,17 +7,41 @@ sites:
     check: "tcp-ping"
     url: $WEBSITE_IP
     port: 80
-  - name: IR-1-Asiatech-1
+  - name: RESTREAM-IR-1-Asiatech-1
     check: "tcp-ping"
     url: $IR_1
     port: $CLIENT_PORT
-  - name: IR-2-ParsOnline-1
+  - name: RESTREAM-IR-2-ParsOnline-1
     check: "tcp-ping"
     url: $IR_2
     port: $CLIENT_PORT
-  - name: IR-3-ParsOnline-2
+  - name: RESTREAM-IR-3-ParsOnline-2
     check: "tcp-ping"
     url: $IR_3
+    port: $CLIENT_PORT
+  - name: RESTREAM-IR-4-Asiatech-2
+    check: "tcp-ping"
+    url: $IR_4
+    port: $CLIENT_PORT
+  - name: RESTREAM-IR-5-ZirSakht
+    check: "tcp-ping"
+    url: $IR_5
+    port: $CLIENT_PORT
+  - name: RESTREAM-IR-6-Afranet-1
+    check: "tcp-ping"
+    url: $IR_6
+    port: $CLIENT_PORT
+  - name: RESTREAM-IR-7-ParsOnline-3
+    check: "tcp-ping"
+    url: $IR_7
+    port: $CLIENT_PORT
+  - name: RESTREAM-IR-8-Asiatech-3
+    check: "tcp-ping"
+    url: $IR_8
+    port: $CLIENT_PORT
+  - name: RESTREAM-IR-9-Afranet-2
+    check: "tcp-ping"
+    url: $IR_9
     port: $CLIENT_PORT
 
 status-website:
