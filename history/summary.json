@@ -1,7 +1,7 @@
 [
   {
     "name": "Website",
-    "url": "${{ secrets.WEBSITE_IP }}",
+    "url": "$WEBSITE_IP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "website",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 90,
+    "timeDay": 90,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   }
 ]
