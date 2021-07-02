@@ -7,6 +7,18 @@ sites:
     check: "tcp-ping"
     url: $WEBSITE_IP
     port: 80
+  - name: IR-1-Asiatech-1
+    check: "tcp-ping"
+    url: $IR_1
+    port: $CLIENT_PORT
+  - name: IR-2-ParsOnline-1
+    check: "tcp-ping"
+    url: $IR_2
+    port: $CLIENT_PORT
+  - name: IR-3-ParsOnline-2
+    check: "tcp-ping"
+    url: $IR_3
+    port: $CLIENT_PORT
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
