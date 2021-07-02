@@ -5,7 +5,7 @@ repo: masterstream_uptime # The name of this repository
 sites:
   - name: Website
     check: "tcp-ping"
-    url: ${{ secrets.WEBSITE_IP }}
+    url: $WEBSITE_IP
     port: 80
 
 status-website:
