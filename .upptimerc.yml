@@ -23,7 +23,7 @@ sites:
     check: "tcp-ping"
     url: $IR_4
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-5-ZirSakht
+  - name: RESTREAM-IR-5-ZirSakht-1
     check: "tcp-ping"
     url: $IR_5
     port: $CLIENT_PORT
@@ -42,6 +42,18 @@ sites:
   - name: RESTREAM-IR-9-Afranet-2
     check: "tcp-ping"
     url: $IR_9
+    port: $CLIENT_PORT
+  - name: RESTREAM-IR-10-ParsOnline-4
+    check: "tcp-ping"
+    url: $IR_10
+    port: $CLIENT_PORT
+  - name: RESTREAM-IR-11-ZirSakht-2
+    check: "tcp-ping"
+    url: $IR_11
+    port: $CLIENT_PORT
+  - name: RESTREAM-IR-12-ZirSakht-3
+    check: "tcp-ping"
+    url: $IR_12
     port: $CLIENT_PORT
 
 status-website:
