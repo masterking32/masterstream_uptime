@@ -55,6 +55,10 @@ sites:
     check: "tcp-ping"
     url: $IR_12
     port: $CLIENT_PORT
+  - name: RESTREAM-IR-13-Afranet-3
+    check: "tcp-ping"
+    url: $IR_13
+    port: $CLIENT_PORT
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
