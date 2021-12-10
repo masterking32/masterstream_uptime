@@ -62,23 +62,23 @@ sites:
   - name: RESTREAM-EDGE-DE-1
     check: "tcp-ping"
     url: $DE_1
-    port: 80
+    port: $CLIENT_PORT
   - name: RESTREAM-EDGE-DE-2
     check: "tcp-ping"
     url: $DE_2
-    port: 80
+    port: $CLIENT_PORT
   - name: RESTREAM-EDGE-DE-3
     check: "tcp-ping"
     url: $DE_3
-    port: 80
+    port: $CLIENT_PORT
   - name: RESTREAM-EDGE-DE-4
     check: "tcp-ping"
     url: $DE_4
-    port: 80
+    port: $CLIENT_PORT
   - name: RESTREAM-EDGE-DE-5
     check: "tcp-ping"
     url: $DE_5
-    port: 80
+    port: $CLIENT_PORT
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
