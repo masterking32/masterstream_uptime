@@ -19,6 +19,10 @@ sites:
     check: "tcp-ping"
     url: $IR_3
     port: $CLIENT_PORT
+  - name: RESTREAM-IR-4-ParsOnline-5
+    check: "tcp-ping"
+    url: $IR_4
+    port: $CLIENT_PORT
   - name: RESTREAM-IR-5-ZirSakht-1
     check: "tcp-ping"
     url: $IR_5
