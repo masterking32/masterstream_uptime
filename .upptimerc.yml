@@ -7,10 +7,6 @@ sites:
     check: "tcp-ping"
     url: $WEBSITE_IP
     port: 80
-  - name: RESTREAM-IR-1-Amin-1
-    check: "tcp-ping"
-    url: $IR_1
-    port: $CLIENT_PORT
   - name: RESTREAM-IR-2-ParsOnline-1
     check: "tcp-ping"
     url: $IR_2
