@@ -59,6 +59,10 @@ sites:
     check: "tcp-ping"
     url: $TR_1
     port: $CLIENT_PORT
+  - name: RESTREAM-TR-2
+    check: "tcp-ping"
+    url: $TR_2
+    port: $CLIENT_PORT
   - name: RESTREAM-EDGE-DE-1
     check: "tcp-ping"
     url: $DE_1
@@ -78,6 +82,10 @@ sites:
   - name: RESTREAM-EDGE-DE-5
     check: "tcp-ping"
     url: $DE_5
+    port: $CLIENT_PORT
+  - name: RESTREAM-EDGE-DE-6
+    check: "tcp-ping"
+    url: $DE_6
     port: $CLIENT_PORT
 
 status-website:
