@@ -96,6 +96,10 @@ status-website:
   logoUrl: https://cdn.discordapp.com/attachments/733899044551655526/860481528580014080/MasterStream-Logo.png
   name: stats.masterstream.ir
   theme: dark
+  navbar:
+    - title: Back to the MasterStream
+      href: https://masterstream.ir
+  introMessage: در این صفحه تمام سرورهای مستراستریم، جهت سرویس دهی به کاربران مستراستریم را مشاهده میکنید، تمامی پینگ ها جهت بررسی در دسترس بودن سرورها در اینترنت می باشد که تمامی ارتباطات بااتصال به آمریکا مورد بررسی قرار میگیرد.
 
 i18n:
   footer: <a href="https://masterstream.ir" target="_blank">MasterStream.iR</a>
