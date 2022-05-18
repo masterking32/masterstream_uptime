@@ -148,19 +148,19 @@
     "url": "$IR_10",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-10-pars-online-4",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "51.79%",
-    "uptimeWeek": "93.11%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "99.74%",
-    "time": 317,
-    "timeDay": 330,
-    "timeWeek": 320,
-    "timeMonth": 334,
-    "timeYear": 317,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "50.65%",
+    "uptimeWeek": "92.95%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "99.73%",
+    "time": 318,
+    "timeDay": 338,
+    "timeWeek": 328,
+    "timeMonth": 338,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2022-05-18": 694
+      "2022-05-18": 711
     }
   },
   {
@@ -169,18 +169,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-11-zir-sakht-2",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "48.60%",
-    "uptimeWeek": "92.66%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.71%",
+    "uptimeDay": "47.43%",
+    "uptimeWeek": "92.49%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "99.71%",
     "time": 260,
     "timeDay": 234,
     "timeWeek": 264,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2022-05-18": 739
+      "2022-05-18": 756
     }
   },
   {
@@ -188,9 +188,9 @@
     "url": "$IR_12",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-12-zir-sakht-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "50.95%",
+    "uptimeDay": "50.93%",
     "uptimeWeek": "92.99%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.73%",
@@ -210,9 +210,9 @@
     "slug": "restream-ir-13-afranet-3",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "54.96%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "53.80%",
+    "uptimeWeek": "93.40%",
+    "uptimeMonth": "98.48%",
     "uptimeYear": "99.74%",
     "time": 327,
     "timeDay": 344,
@@ -220,7 +220,7 @@
     "timeMonth": 357,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-05-18": 649
+      "2022-05-18": 666
     }
   },
   {
@@ -228,9 +228,9 @@
     "url": "$IR_14",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-14-afranet-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "59.07%",
+    "uptimeDay": "59.05%",
     "uptimeWeek": "94.15%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "99.75%",
