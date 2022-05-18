@@ -149,18 +149,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-10-pars-online-4",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "70.09%",
-    "uptimeWeek": "95.73%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.83%",
+    "uptimeDay": "68.65%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "99.83%",
     "time": 317,
     "timeDay": 330,
     "timeWeek": 315,
     "timeMonth": 335,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2022-05-18": 431
+      "2022-05-18": 452
     }
   },
   {
@@ -168,11 +168,11 @@
     "url": "$IR_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-11-zir-sakht-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "65.18%",
-    "uptimeWeek": "95.03%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "65.14%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "98.85%",
     "uptimeYear": "99.81%",
     "time": 264,
     "timeDay": 240,
@@ -180,7 +180,7 @@
     "timeMonth": 271,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2022-05-18": 501
+      "2022-05-18": 502
     }
   },
   {
@@ -208,9 +208,9 @@
     "url": "$IR_13",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-13-afranet-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "70.56%",
+    "uptimeDay": "70.52%",
     "uptimeWeek": "95.79%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.83%",
@@ -220,7 +220,7 @@
     "timeMonth": 363,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-05-18": 425
+      "2022-05-18": 426
     }
   },
   {
@@ -228,9 +228,9 @@
     "url": "$IR_14",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-14-afranet-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "74.34%",
+    "uptimeDay": "74.30%",
     "uptimeWeek": "96.33%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.84%",
@@ -240,7 +240,7 @@
     "timeMonth": 368,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2022-05-18": 371
+      "2022-05-18": 372
     }
   },
   {
