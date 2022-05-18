@@ -148,19 +148,19 @@
     "url": "$IR_10",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-10-pars-online-4",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "83.24%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.91%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "81.69%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.90%",
     "time": 317,
-    "timeDay": 353,
-    "timeWeek": 322,
-    "timeMonth": 341,
+    "timeDay": 342,
+    "timeWeek": 320,
+    "timeMonth": 339,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2022-05-18": 241
+      "2022-05-18": 264
     }
   },
   {
@@ -168,19 +168,19 @@
     "url": "$IR_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-11-zir-sakht-2",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "82.96%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.91%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "81.41%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.90%",
     "time": 263,
-    "timeDay": 218,
-    "timeWeek": 285,
-    "timeMonth": 271,
+    "timeDay": 227,
+    "timeWeek": 284,
+    "timeMonth": 272,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-05-18": 245
+      "2022-05-18": 267
     }
   },
   {
@@ -188,19 +188,19 @@
     "url": "$IR_12",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-12-zir-sakht-3",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "81.60%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.90%",
-    "time": 323,
-    "timeDay": 421,
-    "timeWeek": 404,
-    "timeMonth": 397,
-    "timeYear": 323,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "80.04%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.89%",
+    "time": 322,
+    "timeDay": 404,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2022-05-18": 266
+      "2022-05-18": 288
     }
   },
   {
