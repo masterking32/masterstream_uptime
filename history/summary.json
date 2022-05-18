@@ -169,18 +169,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-11-zir-sakht-2",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "75.76%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.86%",
+    "uptimeDay": "74.32%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.86%",
     "time": 263,
     "timeDay": 227,
     "timeWeek": 284,
     "timeMonth": 272,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-05-18": 348
+      "2022-05-18": 369
     }
   },
   {
@@ -188,9 +188,9 @@
     "url": "$IR_12",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-12-zir-sakht-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "76.56%",
+    "uptimeDay": "76.54%",
     "uptimeWeek": "96.65%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.87%",
@@ -209,18 +209,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-13-afranet-3",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "80.72%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.88%",
+    "uptimeDay": "79.29%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.88%",
     "time": 328,
     "timeDay": 391,
     "timeWeek": 342,
     "timeMonth": 371,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2022-05-18": 279
+      "2022-05-18": 299
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-14-afranet-4",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "78.36%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.86%",
+    "uptimeDay": "76.93%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.86%",
     "time": 337,
     "timeDay": 413,
     "timeWeek": 388,
     "timeMonth": 385,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2022-05-18": 312
+      "2022-05-18": 333
     }
   },
   {
