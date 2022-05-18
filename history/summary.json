@@ -168,19 +168,19 @@
     "url": "$IR_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-11-zir-sakht-2",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "73.68%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.86%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "72.74%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.85%",
     "time": 264,
-    "timeDay": 235,
-    "timeWeek": 284,
+    "timeDay": 240,
+    "timeWeek": 285,
     "timeMonth": 273,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2022-05-18": 378
+      "2022-05-18": 392
     }
   },
   {
@@ -188,19 +188,19 @@
     "url": "$IR_12",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-12-zir-sakht-3",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "76.53%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "75.58%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.87%",
-    "time": 321,
-    "timeDay": 372,
-    "timeWeek": 365,
-    "timeMonth": 376,
-    "timeYear": 321,
+    "time": 320,
+    "timeDay": 364,
+    "timeWeek": 358,
+    "timeMonth": 371,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2022-05-18": 338
+      "2022-05-18": 352
     }
   },
   {
@@ -208,19 +208,19 @@
     "url": "$IR_13",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-13-afranet-3",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "78.64%",
-    "uptimeWeek": "96.95%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.88%",
-    "time": 328,
-    "timeDay": 369,
-    "timeWeek": 332,
-    "timeMonth": 366,
-    "timeYear": 328,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "77.70%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.87%",
+    "time": 327,
+    "timeDay": 354,
+    "timeWeek": 326,
+    "timeMonth": 362,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-05-18": 308
+      "2022-05-18": 322
     }
   },
   {
@@ -228,19 +228,19 @@
     "url": "$IR_14",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-14-afranet-4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "76.29%",
-    "uptimeWeek": "96.61%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "75.34%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.85%",
-    "time": 336,
-    "timeDay": 387,
-    "timeWeek": 369,
-    "timeMonth": 379,
-    "timeYear": 336,
+    "time": 335,
+    "timeDay": 369,
+    "timeWeek": 356,
+    "timeMonth": 373,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2022-05-18": 342
+      "2022-05-18": 356
     }
   },
   {
