@@ -188,9 +188,9 @@
     "url": "$IR_12",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-12-zir-sakht-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "52.64%",
+    "uptimeDay": "52.62%",
     "uptimeWeek": "93.23%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.74%",
@@ -229,18 +229,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-14-afranet-4",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "58.22%",
-    "uptimeWeek": "94.03%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.75%",
+    "uptimeDay": "59.07%",
+    "uptimeWeek": "94.15%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "99.75%",
     "time": 332,
     "timeDay": 336,
     "timeWeek": 331,
     "timeMonth": 355,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2022-05-18": 603
+      "2022-05-18": 591
     }
   },
   {
