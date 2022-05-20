@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 139,
     "timeDay": 93,
-    "timeWeek": 119,
+    "timeWeek": 123,
     "timeMonth": 129,
     "timeYear": 139,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 297,
     "timeDay": 412,
-    "timeWeek": 345,
+    "timeWeek": 336,
     "timeMonth": 389,
     "timeYear": 297,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 241,
     "timeDay": 443,
-    "timeWeek": 378,
+    "timeWeek": 370,
     "timeMonth": 360,
     "timeYear": 241,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 408,
-    "timeWeek": 370,
+    "timeWeek": 360,
     "timeMonth": 386,
     "timeYear": 340,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 349,
     "timeDay": 421,
-    "timeWeek": 388,
+    "timeWeek": 385,
     "timeMonth": 407,
     "timeYear": 349,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 288,
     "timeDay": 407,
-    "timeWeek": 371,
+    "timeWeek": 366,
     "timeMonth": 372,
     "timeYear": 288,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 295,
     "timeDay": 404,
-    "timeWeek": 362,
+    "timeWeek": 356,
     "timeMonth": 385,
     "timeYear": 295,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 292,
     "timeDay": 404,
-    "timeWeek": 371,
+    "timeWeek": 366,
     "timeMonth": 367,
     "timeYear": 292,
     "dailyMinutesDown": {}
@@ -150,9 +150,9 @@
     "slug": "restream-ir-10-pars-online-4",
     "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "54.90%",
-    "uptimeWeek": "81.40%",
-    "uptimeMonth": "95.72%",
+    "uptimeDay": "54.86%",
+    "uptimeWeek": "81.38%",
+    "uptimeMonth": "95.71%",
     "uptimeYear": "99.29%",
     "time": 326,
     "timeDay": 332,
@@ -160,7 +160,7 @@
     "timeMonth": 347,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2022-05-20": 633,
+      "2022-05-20": 635,
       "2022-05-19": 510,
       "2022-05-18": 734
     }
@@ -194,9 +194,9 @@
     "slug": "restream-ir-12-zir-sakht-3",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "57.50%",
-    "uptimeWeek": "81.17%",
-    "uptimeMonth": "95.67%",
+    "uptimeDay": "57.33%",
+    "uptimeWeek": "81.15%",
+    "uptimeMonth": "95.66%",
     "uptimeYear": "99.28%",
     "time": 337,
     "timeDay": 382,
@@ -204,7 +204,7 @@
     "timeMonth": 372,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2022-05-20": 612,
+      "2022-05-20": 614,
       "2022-05-19": 501,
       "2022-05-18": 785
     }
@@ -215,18 +215,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-13-afranet-3",
     "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "48.88%",
-    "uptimeWeek": "77.99%",
-    "uptimeMonth": "94.94%",
-    "uptimeYear": "99.14%",
+    "uptime": "99.13%",
+    "uptimeDay": "48.76%",
+    "uptimeWeek": "77.97%",
+    "uptimeMonth": "94.93%",
+    "uptimeYear": "99.13%",
     "time": 334,
-    "timeDay": 371,
+    "timeDay": 372,
     "timeWeek": 356,
     "timeMonth": 360,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2022-05-20": 736,
+      "2022-05-20": 738,
       "2022-05-19": 734,
       "2022-05-18": 750
     }
@@ -236,19 +236,19 @@
     "url": "$IR_14",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-14-afranet-4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "52.34%",
-    "uptimeWeek": "80.89%",
+    "uptimeDay": "52.31%",
+    "uptimeWeek": "80.87%",
     "uptimeMonth": "95.60%",
     "uptimeYear": "99.18%",
     "time": 347,
     "timeDay": 402,
-    "timeWeek": 373,
+    "timeWeek": 374,
     "timeMonth": 372,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2022-05-20": 669,
+      "2022-05-20": 671,
       "2022-05-19": 595,
       "2022-05-18": 662
     }
@@ -266,7 +266,7 @@
     "uptimeYear": "99.96%",
     "time": 177,
     "timeDay": 166,
-    "timeWeek": 171,
+    "timeWeek": 174,
     "timeMonth": 186,
     "timeYear": 177,
     "dailyMinutesDown": {
@@ -287,7 +287,7 @@
     "uptimeYear": "100.00%",
     "time": 164,
     "timeDay": 129,
-    "timeWeek": 150,
+    "timeWeek": 153,
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {}
@@ -305,7 +305,7 @@
     "uptimeYear": "100.00%",
     "time": 137,
     "timeDay": 93,
-    "timeWeek": 115,
+    "timeWeek": 119,
     "timeMonth": 129,
     "timeYear": 137,
     "dailyMinutesDown": {}
@@ -323,7 +323,7 @@
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 95,
-    "timeWeek": 118,
+    "timeWeek": 121,
     "timeMonth": 129,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -341,7 +341,7 @@
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 93,
-    "timeWeek": 116,
+    "timeWeek": 119,
     "timeMonth": 128,
     "timeYear": 134,
     "dailyMinutesDown": {}
@@ -359,7 +359,7 @@
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 93,
-    "timeWeek": 116,
+    "timeWeek": 119,
     "timeMonth": 128,
     "timeYear": 134,
     "dailyMinutesDown": {}
@@ -377,7 +377,7 @@
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 93,
-    "timeWeek": 116,
+    "timeWeek": 119,
     "timeMonth": 128,
     "timeYear": 134,
     "dailyMinutesDown": {}
@@ -395,7 +395,7 @@
     "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 94,
-    "timeWeek": 117,
+    "timeWeek": 121,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {}
