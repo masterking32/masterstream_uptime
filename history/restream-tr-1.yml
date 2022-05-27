@@ -1,7 +1,7 @@
 url: $TR_1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-05-27T04:55:21.489Z
+status: up
+code: 200
+responseTime: 193
+lastUpdated: 2022-05-27T05:22:06.651Z
 startTime: Wed Dec 08 2021 12:35:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
