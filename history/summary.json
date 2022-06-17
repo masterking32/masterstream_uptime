@@ -162,8 +162,8 @@
     "slug": "restream-ir-10-pars-online-4",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "48.81%",
-    "uptimeWeek": "54.02%",
+    "uptimeDay": "49.68%",
+    "uptimeWeek": "54.14%",
     "uptimeMonth": "88.77%",
     "uptimeYear": "98.39%",
     "time": 359,
@@ -190,7 +190,7 @@
     "status": "up",
     "uptime": "98.32%",
     "uptimeDay": "50.68%",
-    "uptimeWeek": "51.88%",
+    "uptimeWeek": "51.89%",
     "uptimeMonth": "88.26%",
     "uptimeYear": "98.32%",
     "time": 248,
@@ -243,7 +243,7 @@
     "slug": "restream-ir-13-afranet-3",
     "status": "up",
     "uptime": "98.29%",
-    "uptimeDay": "45.94%",
+    "uptimeDay": "46.29%",
     "uptimeWeek": "56.39%",
     "uptimeMonth": "88.42%",
     "uptimeYear": "98.29%",
@@ -269,11 +269,11 @@
     "url": "$IR_14",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-ir-14-afranet-4",
-    "status": "up",
+    "status": "down",
     "uptime": "98.10%",
-    "uptimeDay": "53.08%",
-    "uptimeWeek": "54.57%",
-    "uptimeMonth": "88.00%",
+    "uptimeDay": "53.29%",
+    "uptimeWeek": "54.55%",
+    "uptimeMonth": "88.03%",
     "uptimeYear": "98.10%",
     "time": 363,
     "timeDay": 335,
@@ -281,7 +281,7 @@
     "timeMonth": 368,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2022-06-17": 551,
+      "2022-06-17": 553,
       "2022-06-16": 656,
       "2022-06-15": 820,
       "2022-06-14": 565,
@@ -289,7 +289,7 @@
       "2022-06-12": 623,
       "2022-06-11": 653,
       "2022-06-10": 616,
-      "2022-06-09": 170
+      "2022-06-09": 154
     }
   },
   {
@@ -297,11 +297,11 @@
     "url": "$TR_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "restream-tr-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "73.52%",
+    "uptimeDay": "73.74%",
     "uptimeWeek": "76.97%",
-    "uptimeMonth": "90.54%",
+    "uptimeMonth": "90.58%",
     "uptimeYear": "98.50%",
     "time": 171,
     "timeDay": 156,
@@ -309,7 +309,7 @@
     "timeMonth": 167,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2022-06-17": 298,
+      "2022-06-17": 299,
       "2022-06-16": 655,
       "2022-06-15": 392,
       "2022-06-14": 292,
@@ -333,7 +333,7 @@
       "2022-05-27": 156,
       "2022-05-26": 144,
       "2022-05-25": 119,
-      "2022-05-24": 40
+      "2022-05-24": 24
     }
   },
   {
