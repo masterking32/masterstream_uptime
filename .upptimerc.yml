@@ -55,10 +55,10 @@ sites:
     check: "tcp-ping"
     url: $IR_14
     port: $CLIENT_PORT
-  - name: RESTREAM-TR-1
-    check: "tcp-ping"
-    url: $TR_1
-    port: $CLIENT_PORT
+#  - name: RESTREAM-TR-1
+#    check: "tcp-ping"
+#    url: $TR_1
+#    port: $CLIENT_PORT
   - name: RESTREAM-TR-2
     check: "tcp-ping"
     url: $TR_2
