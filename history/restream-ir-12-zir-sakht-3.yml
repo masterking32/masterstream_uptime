@@ -1,7 +1,7 @@
 url: $IR_12
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-07-29T16:50:26.122Z
+status: up
+code: 200
+responseTime: 183
+lastUpdated: 2022-07-29T17:38:28.630Z
 startTime: Wed Nov 17 2021 15:56:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
