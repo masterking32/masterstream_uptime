@@ -63,6 +63,10 @@ sites:
     check: "tcp-ping"
     url: $TR_2
     port: $CLIENT_PORT
+  - name: RESTREAM-RU-1
+    check: "tcp-ping"
+    url: $RU_1
+    port: $CLIENT_PORT
   - name: RESTREAM-EDGE-DE-1
     check: "tcp-ping"
     url: $DE_1
