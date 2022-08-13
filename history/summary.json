@@ -95,11 +95,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iran-5-zirsakht-1",
     "status": "up",
-    "uptime": "84.95%",
-    "uptimeDay": "84.95%",
-    "uptimeWeek": "84.95%",
-    "uptimeMonth": "84.95%",
-    "uptimeYear": "84.95%",
+    "uptime": "85.65%",
+    "uptimeDay": "85.65%",
+    "uptimeWeek": "85.65%",
+    "uptimeMonth": "85.65%",
+    "uptimeYear": "85.65%",
     "time": 193,
     "timeDay": 193,
     "timeWeek": 193,
@@ -187,18 +187,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iran-10-zirsakht-3",
     "status": "up",
-    "uptime": "55.86%",
-    "uptimeDay": "55.86%",
-    "uptimeWeek": "55.86%",
-    "uptimeMonth": "55.86%",
-    "uptimeYear": "55.86%",
+    "uptime": "60.14%",
+    "uptimeDay": "60.14%",
+    "uptimeWeek": "60.14%",
+    "uptimeMonth": "60.14%",
+    "uptimeYear": "60.14%",
     "time": 219,
     "timeDay": 219,
     "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2022-08-13": 226
+      "2022-08-13": 214
     }
   },
   {
@@ -206,19 +206,19 @@
     "url": "$IR_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iran-11-pars-online-4",
-    "status": "down",
-    "uptime": "69.74%",
-    "uptimeDay": "69.74%",
-    "uptimeWeek": "69.74%",
-    "uptimeMonth": "69.74%",
-    "uptimeYear": "69.74%",
-    "time": 395,
-    "timeDay": 395,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "status": "up",
+    "uptime": "66.60%",
+    "uptimeDay": "66.60%",
+    "uptimeWeek": "66.60%",
+    "uptimeMonth": "66.60%",
+    "uptimeYear": "66.60%",
+    "time": 397,
+    "timeDay": 397,
+    "timeWeek": 397,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2022-08-13": 154
+      "2022-08-13": 179
     }
   },
   {
@@ -227,18 +227,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iran-12-pars-online-5",
     "status": "up",
-    "uptime": "66.62%",
-    "uptimeDay": "66.62%",
-    "uptimeWeek": "66.62%",
-    "uptimeMonth": "66.62%",
-    "uptimeYear": "66.62%",
+    "uptime": "70.41%",
+    "uptimeDay": "70.41%",
+    "uptimeWeek": "70.41%",
+    "uptimeMonth": "70.41%",
+    "uptimeYear": "70.41%",
     "time": 349,
     "timeDay": 349,
     "timeWeek": 349,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-08-13": 170
+      "2022-08-13": 158
     }
   },
   {
