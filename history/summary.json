@@ -185,18 +185,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iran-10-zirsakht-3",
     "status": "down",
-    "uptime": "6.20%",
-    "uptimeDay": "6.20%",
-    "uptimeWeek": "6.20%",
-    "uptimeMonth": "6.20%",
-    "uptimeYear": "6.20%",
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-13": 0
+      "2022-08-13": 8
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "$IR_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iran-11-pars-online-4",
-    "status": "down",
-    "uptime": "0.34%",
-    "uptimeDay": "0.34%",
-    "uptimeWeek": "0.34%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "0.34%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.07%",
+    "uptimeDay": "4.07%",
+    "uptimeWeek": "4.07%",
+    "uptimeMonth": "4.07%",
+    "uptimeYear": "4.07%",
+    "time": 404,
+    "timeDay": 404,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {
-      "2022-08-13": 0
+      "2022-08-13": 8
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "$IR_12",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iran-12-pars-online-5",
-    "status": "down",
-    "uptime": "1.50%",
-    "uptimeDay": "1.50%",
-    "uptimeWeek": "1.50%",
-    "uptimeMonth": "1.50%",
-    "uptimeYear": "1.50%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.04%",
+    "uptimeDay": "4.04%",
+    "uptimeWeek": "4.04%",
+    "uptimeMonth": "4.04%",
+    "uptimeYear": "4.04%",
+    "time": 200,
+    "timeDay": 200,
+    "timeWeek": 200,
+    "timeMonth": 200,
+    "timeYear": 200,
     "dailyMinutesDown": {
-      "2022-08-13": 0
+      "2022-08-13": 8
     }
   },
   {
