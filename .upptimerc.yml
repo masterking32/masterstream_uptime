@@ -7,89 +7,89 @@ sites:
     check: "tcp-ping"
     url: $WEBSITE_IP
     port: 80
-  - name: RESTREAM-IR-2-ParsOnline-1
+  - name: "Server Iran 1 - Afranet 1"
+    check: "tcp-ping"
+    url: $IR_1
+    port: $CLIENT_PORT
+  - name: "Server Iran 2 - Afranet 2"
     check: "tcp-ping"
     url: $IR_2
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-3-ParsOnline-2
+  - name: "Server Iran 3 - Afranet 3"
     check: "tcp-ping"
     url: $IR_3
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-4-ParsOnline-5
+  - name: "Server Iran 4 - Afranet 4"
     check: "tcp-ping"
     url: $IR_4
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-5-ZirSakht-1
+  - name:"Server Iran 5 - Zirsakht 1"
     check: "tcp-ping"
     url: $IR_5
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-6-Afranet-1
+  - name: "Server Iran 6 - Zirsakht 2 (Tabriz)"
     check: "tcp-ping"
     url: $IR_6
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-7-ParsOnline-3
+  - name: "Server Iran 7 - ParsOnline 1"
     check: "tcp-ping"
     url: $IR_7
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-9-Afranet-2
+  - name: "Server Iran 8 - ParsOnline 2"
+    check: "tcp-ping"
+    url: $IR_8
+    port: $CLIENT_PORT
+  - name: "Server Iran 9 - ParsOnline 3"
     check: "tcp-ping"
     url: $IR_9
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-10-ParsOnline-4
+  - name: "Server Iran 10 - Zirsakht 3"
     check: "tcp-ping"
     url: $IR_10
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-11-ZirSakht-2
+  - name: "Server Iran 11 - ParsOnline 4"
     check: "tcp-ping"
     url: $IR_11
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-12-ZirSakht-3
+  - name: "Server Iran 12 - ParsOnline 5"
     check: "tcp-ping"
     url: $IR_12
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-13-Afranet-3
+  - name: "Server Turkey 1"
     check: "tcp-ping"
-    url: $IR_13
+    url: $TR_1
     port: $CLIENT_PORT
-  - name: RESTREAM-IR-14-Afranet-4
-    check: "tcp-ping"
-    url: $IR_14
-    port: $CLIENT_PORT
-#  - name: RESTREAM-TR-1
-#    check: "tcp-ping"
-#    url: $TR_1
-#    port: $CLIENT_PORT
-  - name: RESTREAM-TR-2
-    check: "tcp-ping"
-    url: $TR_2
-    port: $CLIENT_PORT
-  - name: RESTREAM-RU-1
+  - name: "Server Russia 1"
     check: "tcp-ping"
     url: $RU_1
     port: $CLIENT_PORT
-  - name: RESTREAM-EDGE-DE-1
+  - name: "Out - Germany 1"
     check: "tcp-ping"
-    url: $DE_1
+    url: $ODE_1
     port: $CLIENT_PORT
-  - name: RESTREAM-EDGE-DE-2
+  - name: "Out - Germany 2"
     check: "tcp-ping"
-    url: $DE_2
+    url: $ODE_2
     port: $CLIENT_PORT
-  - name: RESTREAM-EDGE-DE-3
+  - name: "Out - Germany 3"
     check: "tcp-ping"
-    url: $DE_3
+    url: $ODE_3
     port: $CLIENT_PORT
-  - name: RESTREAM-EDGE-DE-4
+  - name: "Out - Germany 4"
     check: "tcp-ping"
-    url: $DE_4
+    url: $ODE_4
     port: $CLIENT_PORT
-  - name: RESTREAM-EDGE-DE-5
+  - name: "Out - Germany 5"
     check: "tcp-ping"
-    url: $DE_5
+    url: $ODE_5
     port: $CLIENT_PORT
-  - name: RESTREAM-EDGE-DE-6
+  - name: "Out - Germany 6"
     check: "tcp-ping"
-    url: $DE_6
+    url: $ODE_6
+    port: $CLIENT_PORT
+  - name: "Out - France 1"
+    check: "tcp-ping"
+    url: $OFR_1
     port: $CLIENT_PORT
 
 status-website:
