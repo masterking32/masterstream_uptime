@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 93,
-    "timeWeek": 146,
+    "timeWeek": 144,
     "timeMonth": 125,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -187,18 +187,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iran-10-zirsakht-3",
     "status": "down",
-    "uptime": "56.08%",
+    "uptime": "56.06%",
     "uptimeDay": "58.21%",
-    "uptimeWeek": "56.08%",
-    "uptimeMonth": "56.08%",
-    "uptimeYear": "56.08%",
+    "uptimeWeek": "56.06%",
+    "uptimeMonth": "56.06%",
+    "uptimeYear": "56.06%",
     "time": 244,
     "timeDay": 251,
     "timeWeek": 244,
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-08-15": 590,
+      "2022-08-15": 592,
       "2022-08-14": 714,
       "2022-08-13": 437
     }
@@ -208,9 +208,9 @@
     "url": "$IR_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iran-11-pars-online-4",
-    "status": "up",
+    "status": "down",
     "uptime": "62.25%",
-    "uptimeDay": "65.29%",
+    "uptimeDay": "65.36%",
     "uptimeWeek": "62.25%",
     "uptimeMonth": "62.25%",
     "uptimeYear": "62.25%",
@@ -220,7 +220,7 @@
     "timeMonth": 401,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2022-08-15": 475,
+      "2022-08-15": 476,
       "2022-08-14": 650,
       "2022-08-13": 369
     }
@@ -231,18 +231,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iran-12-pars-online-5",
     "status": "down",
-    "uptime": "57.12%",
+    "uptime": "57.10%",
     "uptimeDay": "52.11%",
-    "uptimeWeek": "57.12%",
-    "uptimeMonth": "57.12%",
-    "uptimeYear": "57.12%",
+    "uptimeWeek": "57.10%",
+    "uptimeMonth": "57.10%",
+    "uptimeYear": "57.10%",
     "time": 244,
     "timeDay": 234,
     "timeWeek": 244,
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-08-15": 654,
+      "2022-08-15": 656,
       "2022-08-14": 667,
       "2022-08-13": 376
     }
