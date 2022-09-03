@@ -59,10 +59,6 @@ sites:
     check: "tcp-ping"
     url: $TR_1
     port: $CLIENT_PORT
-  - name: Russia 1
-    check: "tcp-ping"
-    url: $RU_1
-    port: $CLIENT_PORT
   - name: Out - Germany 1
     check: "tcp-ping"
     url: $ODE_1
