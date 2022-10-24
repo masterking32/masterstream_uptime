@@ -13,7 +13,7 @@
     "time": 135,
     "timeDay": 112,
     "timeWeek": 132,
-    "timeMonth": 122,
+    "timeMonth": 123,
     "timeYear": 133,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 379,
     "timeDay": 360,
     "timeWeek": 368,
-    "timeMonth": 382,
+    "timeMonth": 380,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2022-08-18": 38
@@ -51,7 +51,7 @@
     "time": 384,
     "timeDay": 355,
     "timeWeek": 347,
-    "timeMonth": 380,
+    "timeMonth": 378,
     "timeYear": 384,
     "dailyMinutesDown": {
       "2022-08-19": 132
@@ -71,7 +71,7 @@
     "time": 383,
     "timeDay": 366,
     "timeWeek": 351,
-    "timeMonth": 379,
+    "timeMonth": 378,
     "timeYear": 383,
     "dailyMinutesDown": {}
   },
@@ -89,7 +89,7 @@
     "time": 383,
     "timeDay": 368,
     "timeWeek": 352,
-    "timeMonth": 377,
+    "timeMonth": 375,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2022-10-17": 107,
@@ -126,7 +126,7 @@
     "time": 262,
     "timeDay": 219,
     "timeWeek": 250,
-    "timeMonth": 294,
+    "timeMonth": 296,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2022-10-11": 33,
@@ -147,7 +147,7 @@
     "time": 263,
     "timeDay": 216,
     "timeWeek": 235,
-    "timeMonth": 300,
+    "timeMonth": 303,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2022-10-22": 803,
@@ -172,7 +172,7 @@
     "time": 316,
     "timeDay": 224,
     "timeWeek": 245,
-    "timeMonth": 233,
+    "timeMonth": 235,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2022-08-17": 39
@@ -192,7 +192,7 @@
     "time": 309,
     "timeDay": 226,
     "timeWeek": 251,
-    "timeMonth": 234,
+    "timeMonth": 235,
     "timeYear": 309,
     "dailyMinutesDown": {}
   },
@@ -221,12 +221,12 @@
     "url": "$IR_10",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-10-zirsakht-3",
-    "status": "up",
-    "uptime": "93.90%",
-    "uptimeDay": "54.24%",
-    "uptimeWeek": "52.46%",
-    "uptimeMonth": "85.42%",
-    "uptimeYear": "93.90%",
+    "status": "down",
+    "uptime": "94.08%",
+    "uptimeDay": "55.64%",
+    "uptimeWeek": "52.45%",
+    "uptimeMonth": "85.85%",
+    "uptimeYear": "94.08%",
     "time": 253,
     "timeDay": 217,
     "timeWeek": 229,
@@ -241,7 +241,7 @@
       "2022-10-19": 918,
       "2022-10-18": 592,
       "2022-10-17": 815,
-      "2022-10-16": 791
+      "2022-10-16": 602
     }
   },
   {
@@ -258,7 +258,7 @@
     "time": 153,
     "timeDay": 141,
     "timeWeek": 159,
-    "timeMonth": 150,
+    "timeMonth": 151,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -276,7 +276,7 @@
     "time": 124,
     "timeDay": 113,
     "timeWeek": 132,
-    "timeMonth": 122,
+    "timeMonth": 123,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -294,7 +294,7 @@
     "time": 250,
     "timeDay": 229,
     "timeWeek": 269,
-    "timeMonth": 244,
+    "timeMonth": 246,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
@@ -312,7 +312,7 @@
     "time": 123,
     "timeDay": 113,
     "timeWeek": 132,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -330,7 +330,7 @@
     "time": 123,
     "timeDay": 113,
     "timeWeek": 132,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -348,7 +348,7 @@
     "time": 123,
     "timeDay": 114,
     "timeWeek": 132,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -366,7 +366,7 @@
     "time": 124,
     "timeDay": 114,
     "timeWeek": 134,
-    "timeMonth": 121,
+    "timeMonth": 122,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -384,7 +384,7 @@
     "time": 122,
     "timeDay": 108,
     "timeWeek": 127,
-    "timeMonth": 114,
+    "timeMonth": 115,
     "timeYear": 122,
     "dailyMinutesDown": {}
   }
