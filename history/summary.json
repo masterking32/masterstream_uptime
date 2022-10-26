@@ -141,7 +141,7 @@
     "status": "up",
     "uptime": "95.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.64%",
+    "uptimeWeek": "59.76%",
     "uptimeMonth": "89.89%",
     "uptimeYear": "95.87%",
     "time": 263,
@@ -221,12 +221,12 @@
     "url": "$IR_10",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-10-zirsakht-3",
-    "status": "up",
-    "uptime": "94.88%",
-    "uptimeDay": "42.95%",
-    "uptimeWeek": "52.61%",
-    "uptimeMonth": "87.47%",
-    "uptimeYear": "94.88%",
+    "status": "down",
+    "uptime": "95.22%",
+    "uptimeDay": "42.93%",
+    "uptimeWeek": "52.60%",
+    "uptimeMonth": "88.28%",
+    "uptimeYear": "95.22%",
     "time": 253,
     "timeDay": 227,
     "timeWeek": 228,
@@ -240,7 +240,7 @@
       "2022-10-22": 734,
       "2022-10-21": 656,
       "2022-10-20": 673,
-      "2022-10-19": 918
+      "2022-10-19": 562
     }
   },
   {
