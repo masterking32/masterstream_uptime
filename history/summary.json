@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 135,
     "timeDay": 159,
-    "timeWeek": 128,
+    "timeWeek": 133,
     "timeMonth": 129,
     "timeYear": 133,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.97%",
     "time": 378,
     "timeDay": 434,
-    "timeWeek": 372,
+    "timeWeek": 367,
     "timeMonth": 379,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
     "uptimeYear": "99.88%",
     "time": 383,
     "timeDay": 440,
-    "timeWeek": 376,
+    "timeWeek": 375,
     "timeMonth": 374,
     "timeYear": 383,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 382,
     "timeDay": 442,
-    "timeWeek": 380,
+    "timeWeek": 375,
     "timeMonth": 373,
     "timeYear": 382,
     "dailyMinutesDown": {}
@@ -81,14 +81,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-4-afranet-4",
     "status": "up",
-    "uptime": "80.32%",
+    "uptime": "80.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "80.32%",
+    "uptimeYear": "80.33%",
     "time": 382,
     "timeDay": 434,
-    "timeWeek": 379,
+    "timeWeek": 374,
     "timeMonth": 371,
     "timeYear": 382,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "uptimeYear": "99.90%",
     "time": 260,
     "timeDay": 248,
-    "timeWeek": 239,
+    "timeWeek": 242,
     "timeMonth": 256,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -146,7 +146,7 @@
     "uptimeYear": "96.12%",
     "time": 262,
     "timeDay": 247,
-    "timeWeek": 226,
+    "timeWeek": 227,
     "timeMonth": 260,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -171,7 +171,7 @@
     "uptimeYear": "99.97%",
     "time": 317,
     "timeDay": 237,
-    "timeWeek": 302,
+    "timeWeek": 315,
     "timeMonth": 259,
     "timeYear": 317,
     "dailyMinutesDown": {
@@ -191,7 +191,7 @@
     "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 236,
-    "timeWeek": 226,
+    "timeWeek": 229,
     "timeMonth": 239,
     "timeYear": 303,
     "dailyMinutesDown": {}
@@ -209,7 +209,7 @@
     "uptimeYear": "99.95%",
     "time": 232,
     "timeDay": 240,
-    "timeWeek": 229,
+    "timeWeek": 233,
     "timeMonth": 231,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -221,26 +221,26 @@
     "url": "$IR_10",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-10-zirsakht-3",
-    "status": "up",
-    "uptime": "96.37%",
-    "uptimeDay": "62.91%",
-    "uptimeWeek": "58.89%",
-    "uptimeMonth": "90.54%",
-    "uptimeYear": "96.37%",
+    "status": "down",
+    "uptime": "96.40%",
+    "uptimeDay": "62.86%",
+    "uptimeWeek": "59.20%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "96.40%",
     "time": 250,
     "timeDay": 257,
     "timeWeek": 223,
     "timeMonth": 266,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2022-10-31": 285,
+      "2022-10-31": 286,
       "2022-10-30": 497,
       "2022-10-29": 586,
       "2022-10-28": 612,
       "2022-10-27": 632,
       "2022-10-26": 829,
       "2022-10-25": 635,
-      "2022-10-24": 64
+      "2022-10-24": 32
     }
   },
   {
@@ -256,7 +256,7 @@
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 182,
-    "timeWeek": 155,
+    "timeWeek": 159,
     "timeMonth": 156,
     "timeYear": 154,
     "dailyMinutesDown": {}
@@ -274,7 +274,7 @@
     "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 158,
-    "timeWeek": 128,
+    "timeWeek": 133,
     "timeMonth": 130,
     "timeYear": 126,
     "dailyMinutesDown": {}
@@ -292,7 +292,7 @@
     "uptimeYear": "100.00%",
     "time": 253,
     "timeDay": 324,
-    "timeWeek": 260,
+    "timeWeek": 270,
     "timeMonth": 259,
     "timeYear": 253,
     "dailyMinutesDown": {}
@@ -310,7 +310,7 @@
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 159,
-    "timeWeek": 128,
+    "timeWeek": 133,
     "timeMonth": 128,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -328,7 +328,7 @@
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 159,
-    "timeWeek": 128,
+    "timeWeek": 133,
     "timeMonth": 127,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -346,7 +346,7 @@
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 159,
-    "timeWeek": 128,
+    "timeWeek": 133,
     "timeMonth": 128,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -364,7 +364,7 @@
     "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 160,
-    "timeWeek": 130,
+    "timeWeek": 135,
     "timeMonth": 129,
     "timeYear": 126,
     "dailyMinutesDown": {}
@@ -382,7 +382,7 @@
     "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 151,
-    "timeWeek": 122,
+    "timeWeek": 127,
     "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {}
