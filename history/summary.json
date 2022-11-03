@@ -13,7 +13,7 @@
     "time": 135,
     "timeDay": 95,
     "timeWeek": 134,
-    "timeMonth": 127,
+    "timeMonth": 128,
     "timeYear": 133,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 377,
     "timeDay": 376,
     "timeWeek": 341,
-    "timeMonth": 378,
+    "timeMonth": 377,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2022-08-18": 38
@@ -51,7 +51,7 @@
     "time": 383,
     "timeDay": 441,
     "timeWeek": 356,
-    "timeMonth": 376,
+    "timeMonth": 375,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2022-08-19": 132
@@ -71,7 +71,7 @@
     "time": 386,
     "timeDay": 822,
     "timeWeek": 411,
-    "timeMonth": 387,
+    "timeMonth": 386,
     "timeYear": 386,
     "dailyMinutesDown": {}
   },
@@ -81,15 +81,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-4-afranet-4",
     "status": "up",
-    "uptime": "81.14%",
+    "uptime": "81.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "81.14%",
+    "uptimeYear": "81.15%",
     "time": 381,
     "timeDay": 414,
     "timeWeek": 350,
-    "timeMonth": 372,
+    "timeMonth": 370,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2022-10-17": 107,
@@ -126,7 +126,7 @@
     "time": 260,
     "timeDay": 244,
     "timeWeek": 268,
-    "timeMonth": 245,
+    "timeMonth": 246,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2022-10-11": 33,
@@ -147,7 +147,7 @@
     "time": 260,
     "timeDay": 225,
     "timeWeek": 238,
-    "timeMonth": 234,
+    "timeMonth": 227,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2022-10-22": 803,
@@ -172,7 +172,7 @@
     "time": 322,
     "timeDay": 208,
     "timeWeek": 354,
-    "timeMonth": 276,
+    "timeMonth": 278,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2022-08-17": 39
@@ -192,7 +192,7 @@
     "time": 305,
     "timeDay": 308,
     "timeWeek": 303,
-    "timeMonth": 246,
+    "timeMonth": 247,
     "timeYear": 305,
     "dailyMinutesDown": {}
   },
@@ -210,7 +210,7 @@
     "time": 237,
     "timeDay": 245,
     "timeWeek": 305,
-    "timeMonth": 244,
+    "timeMonth": 245,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-08-17": 54
@@ -221,19 +221,19 @@
     "url": "$IR_10",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-10-zirsakht-3",
-    "status": "up",
-    "uptime": "96.83%",
-    "uptimeDay": "49.79%",
-    "uptimeWeek": "62.59%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "96.83%",
+    "status": "down",
+    "uptime": "96.85%",
+    "uptimeDay": "50.72%",
+    "uptimeWeek": "62.72%",
+    "uptimeMonth": "91.42%",
+    "uptimeYear": "96.85%",
     "time": 249,
     "timeDay": 253,
     "timeWeek": 226,
     "timeMonth": 246,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-11-03": 704,
+      "2022-11-03": 690,
       "2022-11-02": 792,
       "2022-11-01": 618,
       "2022-10-31": 675,
@@ -255,7 +255,7 @@
     "time": 154,
     "timeDay": 123,
     "timeWeek": 160,
-    "timeMonth": 154,
+    "timeMonth": 155,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -273,7 +273,7 @@
     "time": 125,
     "timeDay": 95,
     "timeWeek": 134,
-    "timeMonth": 126,
+    "timeMonth": 127,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -291,7 +291,7 @@
     "time": 252,
     "timeDay": 196,
     "timeWeek": 275,
-    "timeMonth": 255,
+    "timeMonth": 257,
     "timeYear": 252,
     "dailyMinutesDown": {}
   },
@@ -309,7 +309,7 @@
     "time": 124,
     "timeDay": 94,
     "timeWeek": 134,
-    "timeMonth": 125,
+    "timeMonth": 126,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -327,7 +327,7 @@
     "time": 124,
     "timeDay": 94,
     "timeWeek": 134,
-    "timeMonth": 125,
+    "timeMonth": 126,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -345,7 +345,7 @@
     "time": 124,
     "timeDay": 96,
     "timeWeek": 134,
-    "timeMonth": 125,
+    "timeMonth": 127,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -363,7 +363,7 @@
     "time": 125,
     "timeDay": 97,
     "timeWeek": 136,
-    "timeMonth": 127,
+    "timeMonth": 128,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -381,7 +381,7 @@
     "time": 122,
     "timeDay": 89,
     "timeWeek": 128,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 122,
     "dailyMinutesDown": {}
   }
