@@ -163,10 +163,10 @@
     "url": "$IR_7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-7-pars-online-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 323,
@@ -175,6 +175,7 @@
     "timeMonth": 287,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2022-11-06": 1,
       "2022-08-17": 39
     }
   },
@@ -183,19 +184,19 @@
     "url": "$IR_8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-8-pars-online-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 323,
-    "timeWeek": 316,
-    "timeMonth": 256,
-    "timeYear": 305,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 306,
+    "timeDay": 340,
+    "timeWeek": 323,
+    "timeMonth": 260,
+    "timeYear": 306,
     "dailyMinutesDown": {
-      "2022-11-06": 1
+      "2022-11-06": 8
     }
   },
   {
@@ -204,18 +205,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-9-pars-online-3",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 258,
     "timeDay": 807,
     "timeWeek": 483,
     "timeMonth": 301,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2022-11-06": 10,
       "2022-08-17": 54
     }
   },
@@ -224,12 +224,12 @@
     "url": "$IR_10",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-10-zirsakht-3",
-    "status": "up",
-    "uptime": "97.21%",
-    "uptimeDay": "58.45%",
-    "uptimeWeek": "65.86%",
-    "uptimeMonth": "92.14%",
-    "uptimeYear": "97.21%",
+    "status": "down",
+    "uptime": "97.23%",
+    "uptimeDay": "58.42%",
+    "uptimeWeek": "66.14%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "97.23%",
     "time": 249,
     "timeDay": 233,
     "timeWeek": 238,
@@ -241,7 +241,7 @@
       "2022-11-04": 562,
       "2022-11-03": 697,
       "2022-11-02": 792,
-      "2022-11-01": 324
+      "2022-11-01": 295
     }
   },
   {
