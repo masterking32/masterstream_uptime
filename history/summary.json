@@ -184,9 +184,9 @@
     "url": "$IR_8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-8-pars-online-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "96.04%",
+    "uptimeDay": "96.02%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.95%",
@@ -196,6 +196,7 @@
     "timeMonth": 280,
     "timeYear": 311,
     "dailyMinutesDown": {
+      "2022-11-07": 0,
       "2022-11-06": 57
     }
   },
@@ -227,9 +228,9 @@
     "slug": "iran-10-zirsakht-3",
     "status": "down",
     "uptime": "97.26%",
-    "uptimeDay": "58.46%",
-    "uptimeWeek": "66.47%",
-    "uptimeMonth": "92.28%",
+    "uptimeDay": "58.32%",
+    "uptimeWeek": "66.38%",
+    "uptimeMonth": "92.26%",
     "uptimeYear": "97.26%",
     "time": 249,
     "timeDay": 231,
@@ -237,7 +238,8 @@
     "timeMonth": 243,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-11-06": 591,
+      "2022-11-07": 1,
+      "2022-11-06": 600,
       "2022-11-05": 572,
       "2022-11-04": 562,
       "2022-11-03": 697,
