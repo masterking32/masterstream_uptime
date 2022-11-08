@@ -230,24 +230,24 @@
     "url": "$IR_10",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-10-zirsakht-3",
-    "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "62.03%",
-    "uptimeWeek": "68.32%",
-    "uptimeMonth": "92.71%",
-    "uptimeYear": "97.46%",
+    "status": "down",
+    "uptime": "97.48%",
+    "uptimeDay": "62.09%",
+    "uptimeWeek": "68.57%",
+    "uptimeMonth": "92.77%",
+    "uptimeYear": "97.48%",
     "time": 250,
-    "timeDay": 289,
+    "timeDay": 292,
     "timeWeek": 252,
     "timeMonth": 247,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2022-11-08": 326,
+      "2022-11-08": 328,
       "2022-11-07": 436,
       "2022-11-06": 600,
       "2022-11-05": 572,
       "2022-11-04": 562,
-      "2022-11-03": 697
+      "2022-11-03": 670
     }
   },
   {
@@ -364,18 +364,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-6",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.61%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.92%",
     "time": 125,
     "timeDay": 124,
     "timeWeek": 116,
     "timeMonth": 126,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-11-08": 83
+      "2022-11-08": 106
     }
   },
   {
