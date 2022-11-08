@@ -231,18 +231,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-10-zirsakht-3",
     "status": "down",
-    "uptime": "97.48%",
-    "uptimeDay": "62.09%",
-    "uptimeWeek": "68.57%",
-    "uptimeMonth": "92.77%",
-    "uptimeYear": "97.48%",
+    "uptime": "97.47%",
+    "uptimeDay": "60.83%",
+    "uptimeWeek": "68.35%",
+    "uptimeMonth": "92.72%",
+    "uptimeYear": "97.47%",
     "time": 250,
     "timeDay": 296,
     "timeWeek": 253,
     "timeMonth": 247,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2022-11-08": 328,
+      "2022-11-08": 350,
       "2022-11-07": 436,
       "2022-11-06": 600,
       "2022-11-05": 572,
@@ -327,28 +327,30 @@
     "url": "$ODE_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 122,
     "timeWeek": 114,
     "timeMonth": 124,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 3
+    }
   },
   {
     "name": "Out - Germany 5",
     "url": "$ODE_5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
@@ -356,7 +358,9 @@
     "timeWeek": 216,
     "timeMonth": 145,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 2
+    }
   },
   {
     "name": "Out - Germany 6",
@@ -364,18 +368,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-6",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "90.18%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.87%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.87%",
     "time": 125,
     "timeDay": 124,
     "timeWeek": 116,
     "timeMonth": 126,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-11-08": 141
+      "2022-11-08": 164
     }
   },
   {
