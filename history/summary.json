@@ -13,7 +13,7 @@
     "time": 135,
     "timeDay": 159,
     "timeWeek": 117,
-    "timeMonth": 124,
+    "timeMonth": 125,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 381,
     "timeDay": 278,
     "timeWeek": 363,
-    "timeMonth": 369,
+    "timeMonth": 366,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2022-08-19": 132
@@ -126,7 +126,7 @@
     "time": 258,
     "timeDay": 362,
     "timeWeek": 245,
-    "timeMonth": 243,
+    "timeMonth": 246,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2022-11-07": 20,
@@ -196,7 +196,7 @@
     "time": 310,
     "timeDay": 326,
     "timeWeek": 344,
-    "timeMonth": 295,
+    "timeMonth": 297,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2022-11-07": 193,
@@ -208,19 +208,19 @@
     "url": "$IR_9",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-9-pars-online-3",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.84%",
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.83%",
     "time": 276,
     "timeDay": 342,
     "timeWeek": 375,
-    "timeMonth": 334,
+    "timeMonth": 337,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2022-11-14": 1,
+      "2022-11-14": 10,
       "2022-11-07": 117,
       "2022-11-06": 45,
       "2022-08-17": 54
