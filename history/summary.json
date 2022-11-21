@@ -61,18 +61,20 @@
     "url": "$IR_3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-3-pars-online-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.18%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "97.18%",
     "time": 511,
     "timeDay": 511,
     "timeWeek": 511,
     "timeMonth": 511,
     "timeYear": 511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-21": 3
+    }
   },
   {
     "name": "Iran 4 - Afranet 2",
@@ -133,36 +135,40 @@
     "url": "$IR_7",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-7-pars-online-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.34%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
     "time": 318,
     "timeDay": 318,
     "timeWeek": 318,
     "timeMonth": 318,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-21": 2
+    }
   },
   {
     "name": "Iran 8 - ParsOnline 3",
     "url": "$IR_8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-8-pars-online-3",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 937,
     "timeDay": 937,
     "timeWeek": 937,
     "timeMonth": 937,
     "timeYear": 937,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-21": 0
+    }
   },
   {
     "name": "Turkey 1",
