@@ -11,37 +11,33 @@ sites:
     check: "tcp-ping"
     url: $IR_1
     port: $CLIENT_PORT
-  - name: Iran 2 - Afranet 2
+  - name: Iran 2 - ZirSakht 1
     check: "tcp-ping"
     url: $IR_2
     port: $CLIENT_PORT
-  - name: Iran 3 - Afranet 3
+  - name: Iran 3 - ParsOnline 1
     check: "tcp-ping"
     url: $IR_3
     port: $CLIENT_PORT
-  - name: Iran 4 - Afranet 4
+  - name: Iran 4 - Afranet 2
     check: "tcp-ping"
     url: $IR_4
     port: $CLIENT_PORT
-  - name: Iran 5 - Zirsakht 1
+  - name: Iran 5 - Afranet 3
     check: "tcp-ping"
     url: $IR_5
     port: $CLIENT_PORT
-  - name: Iran 6 - Zirsakht 2 (Tabriz)
+  - name: Iran 6 - Afranet 4
     check: "tcp-ping"
     url: $IR_6
     port: $CLIENT_PORT
-  - name: Iran 7 - ParsOnline 1
+  - name: Iran 7 - ParsOnline 2
     check: "tcp-ping"
     url: $IR_7
     port: $CLIENT_PORT
-  - name: Iran 8 - ParsOnline 2
+  - name: Iran 8 - ParsOnline 3
     check: "tcp-ping"
     url: $IR_8
-    port: $CLIENT_PORT
-  - name: Iran 9 - ParsOnline 3
-    check: "tcp-ping"
-    url: $IR_9
     port: $CLIENT_PORT
   - name: Turkey 1
     check: "tcp-ping"
