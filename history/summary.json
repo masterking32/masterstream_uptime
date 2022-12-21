@@ -22,11 +22,11 @@
     "url": "$IR_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-1-afranet-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
     "time": 333,
     "timeDay": 199,
@@ -34,6 +34,7 @@
     "timeMonth": 211,
     "timeYear": 333,
     "dailyMinutesDown": {
+      "2022-12-21": 4,
       "2022-11-21": 76,
       "2022-08-18": 38
     }
@@ -44,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-2-zir-sakht-1",
     "status": "down",
-    "uptime": "94.17%",
+    "uptime": "94.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.10%",
-    "uptimeMonth": "94.17%",
-    "uptimeYear": "94.17%",
+    "uptimeWeek": "74.96%",
+    "uptimeMonth": "94.14%",
+    "uptimeYear": "94.14%",
     "time": 211,
     "timeDay": 0,
     "timeWeek": 225,
     "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2022-12-21": 558,
+      "2022-12-21": 572,
       "2022-12-20": 1440,
       "2022-12-19": 67,
       "2022-12-17": 188,
@@ -88,10 +89,10 @@
     "url": "$IR_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-4-afranet-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
@@ -99,26 +100,28 @@
     "timeWeek": 186,
     "timeMonth": 230,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-21": 2
+    }
   },
   {
     "name": "Iran 5 - Afranet 3",
     "url": "$IR_5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-5-afranet-3",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 387,
     "timeDay": 409,
     "timeWeek": 394,
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2022-12-21": 11
+      "2022-12-21": 0
     }
   },
   {
