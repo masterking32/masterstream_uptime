@@ -44,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-2-zir-sakht-1",
     "status": "up",
-    "uptime": "91.85%",
+    "uptime": "91.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "63.95%",
+    "uptimeWeek": "68.37%",
     "uptimeMonth": "90.49%",
-    "uptimeYear": "91.85%",
+    "uptimeYear": "91.92%",
     "time": 209,
     "timeDay": 209,
     "timeWeek": 199,
@@ -126,9 +126,9 @@
     "url": "$IR_6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-6-afranet-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -137,7 +137,9 @@
     "timeWeek": 185,
     "timeMonth": 190,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-27": 0
+    }
   },
   {
     "name": "Turkey 1",
