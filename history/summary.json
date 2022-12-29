@@ -44,11 +44,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-2-zir-sakht-1",
     "status": "up",
-    "uptime": "92.29%",
+    "uptime": "92.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.32%",
     "uptimeMonth": "90.49%",
-    "uptimeYear": "92.29%",
+    "uptimeYear": "92.44%",
     "time": 208,
     "timeDay": 205,
     "timeWeek": 195,
@@ -90,10 +90,10 @@
     "url": "$IR_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-4-afranet-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
@@ -101,7 +101,9 @@
     "timeWeek": 181,
     "timeMonth": 188,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-29": 1
+    }
   },
   {
     "name": "Iran 5 - Afranet 3",
