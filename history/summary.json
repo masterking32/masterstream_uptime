@@ -108,19 +108,19 @@
     "url": "$IR_5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-5-afranet-3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 388,
     "timeDay": 448,
     "timeWeek": 396,
     "timeMonth": 392,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2022-12-30": 1
+      "2022-12-30": 9
     }
   },
   {
