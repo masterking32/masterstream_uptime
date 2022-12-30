@@ -91,19 +91,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-4-afranet-2",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 223,
     "timeWeek": 192,
     "timeMonth": 189,
     "timeYear": 220,
-    "dailyMinutesDown": {
-      "2022-12-30": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Iran 5 - Afranet 3",
@@ -128,9 +126,9 @@
     "url": "$IR_6",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-6-afranet-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
@@ -140,6 +138,7 @@
     "timeMonth": 189,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2022-12-30": 0,
       "2022-12-27": 60
     }
   },
