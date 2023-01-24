@@ -73,11 +73,11 @@
     "url": "$IR_3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-3-pars-online-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.92%",
     "time": 219,
     "timeDay": 171,
@@ -85,7 +85,7 @@
     "timeMonth": 211,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-01-24": 0,
+      "2023-01-24": 8,
       "2022-11-28": 16,
       "2022-11-21": 54
     }
