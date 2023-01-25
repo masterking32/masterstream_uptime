@@ -4,9 +4,9 @@
     "url": "$WEBSITE_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -158,11 +158,11 @@
     "url": "$ODE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 92,
@@ -170,7 +170,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2023-01-25": 9
+      "2023-01-25": 0
     }
   },
   {
