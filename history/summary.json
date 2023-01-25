@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 93,
@@ -16,7 +16,7 @@
     "timeMonth": 119,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 8
     }
   },
   {
@@ -158,9 +158,9 @@
     "url": "$ODE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -169,7 +169,9 @@
     "timeWeek": 115,
     "timeMonth": 119,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Out - Germany 2",
