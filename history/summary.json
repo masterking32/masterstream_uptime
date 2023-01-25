@@ -4,11 +4,11 @@
     "url": "$WEBSITE_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 93,
@@ -16,7 +16,7 @@
     "timeMonth": 119,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-01-25": 10
+      "2023-01-25": 1
     }
   },
   {
@@ -47,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-2-zir-sakht-1",
     "status": "up",
-    "uptime": "94.84%",
+    "uptime": "94.87%",
     "uptimeDay": "96.66%",
     "uptimeWeek": "97.60%",
     "uptimeMonth": "98.50%",
-    "uptimeYear": "94.84%",
+    "uptimeYear": "94.87%",
     "time": 209,
     "timeDay": 207,
     "timeWeek": 210,
