@@ -99,9 +99,9 @@
     "url": "$IR_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-4-afranet-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.78%",
@@ -111,6 +111,7 @@
     "timeMonth": 326,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2023-02-02": 0,
       "2023-01-25": 43,
       "2022-12-30": 185
     }
