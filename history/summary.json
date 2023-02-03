@@ -47,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-2-zir-sakht-1",
     "status": "up",
-    "uptime": "95.45%",
+    "uptime": "95.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.57%",
-    "uptimeYear": "95.45%",
+    "uptimeYear": "95.50%",
     "time": 212,
     "timeDay": 175,
     "timeWeek": 228,
-    "timeMonth": 215,
+    "timeMonth": 216,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2023-01-25": 48,
@@ -100,13 +100,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-4-afranet-2",
     "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "21.83%",
+    "uptime": "98.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "88.83%",
     "uptimeMonth": "97.33%",
-    "uptimeYear": "98.72%",
+    "uptimeYear": "98.74%",
     "time": 263,
-    "timeDay": 371,
+    "timeDay": 373,
     "timeWeek": 403,
     "timeMonth": 332,
     "timeYear": 263,
@@ -215,9 +215,9 @@
     "url": "$OFR_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-france-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -226,6 +226,8 @@
     "timeWeek": 119,
     "timeMonth": 116,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-03": 0
+    }
   }
 ]
