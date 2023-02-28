@@ -167,19 +167,19 @@
     "url": "$TR_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "turkey-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 147,
-    "timeDay": 118,
-    "timeWeek": 159,
-    "timeMonth": 145,
+    "timeDay": 121,
+    "timeWeek": 155,
+    "timeMonth": 144,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-02-28": 0
+      "2023-02-28": 25
     }
   },
   {
