@@ -27,7 +27,7 @@ sites:
     check: "tcp-ping"
     url: $IR_5
     port: $CLIENT_PORT
-  - name: Iran 6 - Fanava 1
+  - name: Iran 6 - Afranet 4
     check: "tcp-ping"
     url: $IR_6
     port: $CLIENT_PORT
