@@ -31,6 +31,10 @@ sites:
     check: "tcp-ping"
     url: $IR_6
     port: $CLIENT_PORT
+  - name: Iran 7 - ParsOnline 2
+    check: "tcp-ping"
+    url: $IR_7
+    port: $CLIENT_PORT
   - name: Turkey 1
     check: "tcp-ping"
     url: $TR_1
@@ -42,6 +46,10 @@ sites:
   - name: Out - Germany 2
     check: tcp-ping"
     url: $ODE_2
+    port: $CLIENT_PORT
+  - name: Out - Germany 3
+    check: tcp-ping"
+    url: $ODE_3
     port: $CLIENT_PORT
   - name: Out - France 1
     check: "tcp-ping"
