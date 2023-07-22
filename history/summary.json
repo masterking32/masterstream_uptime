@@ -161,7 +161,7 @@
     "uptime": "94.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.15%",
+    "uptimeMonth": "86.17%",
     "uptimeYear": "94.28%",
     "time": 261,
     "timeDay": 173,
@@ -227,19 +227,19 @@
     "url": "$ODE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 196,
-    "timeWeek": 277,
-    "timeMonth": 254,
+    "timeDay": 192,
+    "timeWeek": 266,
+    "timeMonth": 252,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-07-22": 0
+      "2023-07-22": 8
     }
   },
   {
