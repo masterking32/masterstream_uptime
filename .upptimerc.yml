@@ -11,6 +11,10 @@ sites:
     check: "tcp-ping"
     url: $IR_1
     port: $CLIENT_PORT
+  - name: Iran 2 - Afranet 5
+    check: "tcp-ping"
+    url: $IR_2
+    port: $CLIENT_PORT
   - name: Iran 3 - ParsOnline 1
     check: "tcp-ping"
     url: $IR_3
@@ -42,6 +46,10 @@ sites:
   - name: Out - Germany 2
     check: tcp-ping"
     url: $ODE_2
+    port: $CLIENT_PORT
+  - name: Out - Finland 1
+    check: tcp-ping"
+    url: $OFL_1
     port: $CLIENT_PORT
   - name: Out - France 1
     check: "tcp-ping"
