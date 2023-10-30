@@ -4,9 +4,9 @@
     "url": "$WEBSITE_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
@@ -16,6 +16,7 @@
     "timeMonth": 126,
     "timeYear": 129,
     "dailyMinutesDown": {
+      "2023-10-30": 0,
       "2023-08-02": 758,
       "2023-08-01": 980,
       "2023-01-25": 186
