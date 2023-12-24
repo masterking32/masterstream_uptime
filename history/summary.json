@@ -13,7 +13,7 @@
     "time": 127,
     "timeDay": 93,
     "timeWeek": 105,
-    "timeMonth": 116,
+    "timeMonth": 117,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2023-12-16": 24,
@@ -125,9 +125,9 @@
     "url": "$IR_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-4-afranet-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.43%",
     "uptimeYear": "99.18%",
@@ -137,6 +137,7 @@
     "timeMonth": 219,
     "timeYear": 369,
     "dailyMinutesDown": {
+      "2023-12-24": 0,
       "2023-12-16": 24,
       "2023-12-15": 1440,
       "2023-12-14": 1415,
@@ -277,7 +278,7 @@
     "time": 127,
     "timeDay": 93,
     "timeWeek": 105,
-    "timeMonth": 116,
+    "timeMonth": 117,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2023-12-16": 24,
