@@ -47,10 +47,6 @@ sites:
     check: tcp-ping"
     url: $ODE_2
     port: $CLIENT_PORT
-  - name: Out - Finland 1
-    check: tcp-ping"
-    url: $OFL_1
-    port: $CLIENT_PORT
   - name: Out - France 1
     check: "tcp-ping"
     url: $OFR_1
