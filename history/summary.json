@@ -131,17 +131,16 @@
     "slug": "iran-4-afranet-2",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "99.22%",
     "time": 350,
     "timeDay": 181,
     "timeWeek": 211,
     "timeMonth": 214,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2024-01-05": 11,
       "2023-12-16": 24,
       "2023-12-15": 1440,
       "2023-12-14": 1415,
@@ -295,9 +294,9 @@
     "url": "$ODE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -306,7 +305,9 @@
     "timeWeek": 619,
     "timeMonth": 579,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   },
   {
     "name": "Out - France 1",
