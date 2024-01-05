@@ -294,19 +294,19 @@
     "url": "$ODE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 466,
-    "timeWeek": 619,
+    "time": 354,
+    "timeDay": 511,
+    "timeWeek": 610,
     "timeMonth": 579,
-    "timeYear": 391,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 9
     }
   },
   {
