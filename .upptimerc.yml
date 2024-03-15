@@ -15,10 +15,6 @@ sites:
     check: "tcp-ping"
     url: $IR_2
     port: $CLIENT_PORT
-  - name: Iran 3 - ParsOnline 1
-    check: "tcp-ping"
-    url: $IR_3
-    port: $CLIENT_PORT
   - name: Iran 4 - Afranet 2
     check: "tcp-ping"
     url: $IR_4
