@@ -171,7 +171,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.86%",
+    "uptimeYear": "97.87%",
     "time": 241,
     "timeDay": 204,
     "timeWeek": 243,
@@ -261,6 +261,26 @@
     "timeMonth": 593,
     "timeYear": 471,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Out - Germany 3",
+    "url": "$ODE_3",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "out-germany-3",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "0.00%",
+    "time": 126,
+    "timeDay": 295,
+    "timeWeek": 295,
+    "timeMonth": 295,
+    "timeYear": 391,
+    "dailyMinutesDown": {
+      "2023-04-12": 35
+    }
   },
   {
     "name": "Out - France 1",
