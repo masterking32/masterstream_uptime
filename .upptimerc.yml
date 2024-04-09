@@ -27,10 +27,6 @@ sites:
     check: "tcp-ping"
     url: $IR_6
     port: $CLIENT_PORT
-  - name: Iran 7 - ParsOnline 2
-    check: "tcp-ping"
-    url: $IR_7
-    port: $CLIENT_PORT
   - name: Turkey 1
     check: "tcp-ping"
     url: $TR_1
