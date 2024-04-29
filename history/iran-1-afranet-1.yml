@@ -1,7 +1,7 @@
 url: $IR_1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-29T15:22:56.238Z
+status: up
+code: 200
+responseTime: 162
+lastUpdated: 2024-04-29T19:11:19.550Z
 startTime: 2022-08-13T05:27:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
