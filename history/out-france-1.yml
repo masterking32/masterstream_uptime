@@ -1,7 +1,7 @@
 url: $OFR_1
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2024-06-18T22:19:59.427Z
+lastUpdated: 2024-06-18T22:55:43.625Z
 startTime: 2022-08-13T05:21:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
