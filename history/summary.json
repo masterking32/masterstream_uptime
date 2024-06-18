@@ -240,7 +240,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-3",
     "status": "up",
-    "uptime": "83.89%",
+    "uptime": "84.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -257,9 +257,9 @@
     "url": "$OFR_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-france-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
@@ -269,6 +269,7 @@
     "timeMonth": 109,
     "timeYear": 112,
     "dailyMinutesDown": {
+      "2024-06-18": 0,
       "2023-12-16": 24,
       "2023-12-15": 1440,
       "2023-12-14": 1415
