@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.12%",
     "time": 124,
     "timeDay": 100,
@@ -16,7 +16,6 @@
     "timeMonth": 114,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-07-06": 7,
       "2023-12-16": 24,
       "2023-12-15": 1440,
       "2023-12-14": 1415,
@@ -200,9 +199,9 @@
     "slug": "out-germany-1",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.12%",
     "time": 124,
     "timeDay": 99,
@@ -210,7 +209,6 @@
     "timeMonth": 114,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-07-06": 6,
       "2023-12-16": 24,
       "2023-12-15": 1440,
       "2023-12-14": 1415,
@@ -223,10 +221,10 @@
     "url": "$ODE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
@@ -234,16 +232,18 @@
     "timeWeek": 583,
     "timeMonth": 579,
     "timeYear": 569,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-06": 1
+    }
   },
   {
     "name": "Out - Germany 3",
     "url": "$ODE_3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "out-germany-3",
-    "status": "up",
+    "status": "down",
     "uptime": "86.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -252,7 +252,9 @@
     "timeWeek": 232,
     "timeMonth": 231,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-06": 0
+    }
   },
   {
     "name": "Out - France 1",
