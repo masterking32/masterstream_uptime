@@ -35,14 +35,6 @@ sites:
     check: "tcp-ping"
     url: $ODE_1
     port: $CLIENT_PORT
-  - name: Out - Germany 2
-    check: tcp-ping"
-    url: $ODE_2
-    port: $CLIENT_PORT
-  - name: Out - Germany 3
-    check: tcp-ping"
-    url: $ODE_3
-    port: $CLIENT_PORT
   - name: Out - France 1
     check: "tcp-ping"
     url: $OFR_1
