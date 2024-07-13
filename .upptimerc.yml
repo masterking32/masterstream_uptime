@@ -7,25 +7,13 @@ sites:
     check: "tcp-ping"
     url: $WEBSITE_IP
     port: 80
-  - name: Iran 1 - Afranet 1
+  - name: Iran 1 - VIP 1
     check: "tcp-ping"
-    url: $IR_1
-    port: $CLIENT_PORT
-  - name: Iran 2 - Afranet 5
+    url: $VIP1
+    port: $CLIENT_PORTy
+  - name: Russia 1
     check: "tcp-ping"
-    url: $IR_2
-    port: $CLIENT_PORT
-  - name: Iran 4 - Afranet 2
-    check: "tcp-ping"
-    url: $IR_4
-    port: $CLIENT_PORT
-  - name: Iran 5 - Afranet 3
-    check: "tcp-ping"
-    url: $IR_5
-    port: $CLIENT_PORT
-  - name: Iran 6 - Afranet 4
-    check: "tcp-ping"
-    url: $IR_6
+    url: $RU1
     port: $CLIENT_PORT
   - name: Turkey 1
     check: "tcp-ping"
