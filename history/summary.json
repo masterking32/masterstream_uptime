@@ -28,19 +28,19 @@
     "url": "$VIP1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-1-vip-1",
-    "status": "up",
-    "uptime": "77.71%",
-    "uptimeDay": "77.71%",
-    "uptimeWeek": "77.71%",
-    "uptimeMonth": "77.71%",
-    "uptimeYear": "77.71%",
+    "status": "down",
+    "uptime": "79.15%",
+    "uptimeDay": "79.15%",
+    "uptimeWeek": "79.15%",
+    "uptimeMonth": "79.15%",
+    "uptimeYear": "79.15%",
     "time": 228,
     "timeDay": 228,
     "timeWeek": 228,
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2024-07-13": 200
+      "2024-07-13": 189
     }
   },
   {
