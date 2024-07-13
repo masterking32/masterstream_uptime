@@ -10,7 +10,11 @@ sites:
   - name: Iran 1 - VIP 1
     check: "tcp-ping"
     url: $VIP1
-    port: $CLIENT_PORTy
+    port: $CLIENT_PORT
+  - name: Iran 1 - VIP 2
+    check: "tcp-ping"
+    url: $VIP2
+    port: $CLIENT_PORT
   - name: Russia 1
     check: "tcp-ping"
     url: $RU1
