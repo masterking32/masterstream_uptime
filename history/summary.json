@@ -58,8 +58,8 @@
     "slug": "iran-1-vip-2",
     "status": "down",
     "uptime": "93.45%",
-    "uptimeDay": "56.44%",
-    "uptimeWeek": "93.78%",
+    "uptimeDay": "56.40%",
+    "uptimeWeek": "93.77%",
     "uptimeMonth": "93.45%",
     "uptimeYear": "93.45%",
     "time": 241,
@@ -68,7 +68,7 @@
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-07-28": 25,
+      "2024-07-28": 26,
       "2024-07-27": 602,
       "2024-07-16": 478,
       "2024-07-15": 249
