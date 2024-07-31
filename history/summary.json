@@ -19,8 +19,7 @@
       "2023-12-16": 24,
       "2023-12-15": 1440,
       "2023-12-14": 1415,
-      "2023-08-02": 758,
-      "2023-08-01": 980
+      "2023-08-02": 758
     }
   },
   {
@@ -28,19 +27,20 @@
     "url": "$VIP1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-1-vip-1",
-    "status": "down",
-    "uptime": "89.79%",
-    "uptimeDay": "74.23%",
-    "uptimeWeek": "74.42%",
-    "uptimeMonth": "89.79%",
-    "uptimeYear": "89.79%",
+    "status": "up",
+    "uptime": "89.73%",
+    "uptimeDay": "73.12%",
+    "uptimeWeek": "74.26%",
+    "uptimeMonth": "89.73%",
+    "uptimeYear": "89.73%",
     "time": 220,
     "timeDay": 216,
     "timeWeek": 215,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-07-30": 372,
+      "2024-07-31": 12,
+      "2024-07-30": 377,
       "2024-07-29": 423,
       "2024-07-28": 321,
       "2024-07-27": 521,
@@ -79,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "russia-1",
     "status": "up",
-    "uptime": "59.46%",
+    "uptime": "59.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -105,7 +105,7 @@
     "time": 143,
     "timeDay": 137,
     "timeWeek": 134,
-    "timeMonth": 133,
+    "timeMonth": 132,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2023-12-16": 24,
@@ -128,14 +128,13 @@
     "time": 122,
     "timeDay": 109,
     "timeWeek": 107,
-    "timeMonth": 104,
+    "timeMonth": 103,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2023-12-16": 24,
       "2023-12-15": 1440,
       "2023-12-14": 1415,
-      "2023-08-02": 759,
-      "2023-08-01": 978
+      "2023-08-02": 759
     }
   },
   {
