@@ -1,7 +1,7 @@
 url: $VIP1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-10T23:42:42.835Z
+status: up
+code: 200
+responseTime: 200
+lastUpdated: 2024-08-10T23:49:59.909Z
 startTime: 2024-07-13T08:23:53.890Z
 generator: Upptime <https://github.com/upptime/upptime>
