@@ -26,12 +26,12 @@
     "url": "$VIP1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iran-1-vip-1",
-    "status": "up",
-    "uptime": "93.94%",
-    "uptimeDay": "74.48%",
+    "status": "down",
+    "uptime": "94.00%",
+    "uptimeDay": "75.88%",
     "uptimeWeek": "74.63%",
-    "uptimeMonth": "93.94%",
-    "uptimeYear": "93.94%",
+    "uptimeMonth": "94.00%",
+    "uptimeYear": "94.00%",
     "time": 217,
     "timeDay": 212,
     "timeWeek": 214,
@@ -45,7 +45,7 @@
       "2024-08-07": 414,
       "2024-08-06": 244,
       "2024-08-05": 443,
-      "2024-08-04": 47
+      "2024-08-04": 24
     }
   },
   {
@@ -84,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "russia-1",
     "status": "up",
-    "uptime": "75.79%",
+    "uptime": "75.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
