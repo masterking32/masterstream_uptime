@@ -7,14 +7,14 @@ sites:
     check: "tcp-ping"
     url: $WEBSITE_IP
     port: 80
-  - name: Iran 1 - VIP 1
-    check: "tcp-ping"
-    url: $VIP1
-    port: $CLIENT_PORT
-  - name: Iran 1 - VIP 2
-    check: "tcp-ping"
-    url: $VIP2
-    port: $CLIENT_PORT
+  # - name: Iran 1 - VIP 1
+  #   check: "tcp-ping"
+  #   url: $VIP1
+  #   port: $CLIENT_PORT
+  # - name: Iran 1 - VIP 2
+  #   check: "tcp-ping"
+  #   url: $VIP2
+  #   port: $CLIENT_PORT
   - name: Russia 1
     check: "tcp-ping"
     url: $RU1
