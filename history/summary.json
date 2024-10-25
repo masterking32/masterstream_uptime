@@ -26,9 +26,9 @@
     "url": "$RU1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "russia-1",
-    "status": "up",
-    "uptime": "93.10%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "93.11%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 152,
     "timeMonth": 143,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-25": 0
+    }
   },
   {
     "name": "Turkey 1",
