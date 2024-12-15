@@ -6,19 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.73%",
     "time": 116,
     "timeDay": 103,
     "timeWeek": 98,
     "timeMonth": 113,
     "timeYear": 114,
-    "dailyMinutesDown": {
-      "2024-12-14": 9,
-      "2023-12-16": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Russia 1",
@@ -50,15 +47,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.73%",
     "time": 143,
     "timeDay": 120,
     "timeWeek": 121,
     "timeMonth": 138,
     "timeYear": 142,
-    "dailyMinutesDown": {
-      "2023-12-16": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Out - Germany 1",
@@ -67,19 +62,16 @@
     "slug": "out-germany-1",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.73%",
     "time": 115,
     "timeDay": 104,
     "timeWeek": 98,
     "timeMonth": 113,
     "timeYear": 114,
-    "dailyMinutesDown": {
-      "2024-12-14": 9,
-      "2023-12-16": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Out - France 1",
@@ -91,7 +83,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.71%",
     "time": 110,
     "timeDay": 86,
     "timeWeek": 87,
@@ -99,8 +91,7 @@
     "timeYear": 108,
     "dailyMinutesDown": {
       "2024-12-03": 38,
-      "2024-06-18": 36,
-      "2023-12-16": 24
+      "2024-06-18": 36
     }
   }
 ]
