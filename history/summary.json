@@ -42,9 +42,9 @@
     "url": "$TR_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "turkey-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 135,
     "timeMonth": 144,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "Out - Germany 1",
