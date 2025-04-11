@@ -1,7 +1,7 @@
 url: $RU1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-10T23:08:07.246Z
+status: up
+code: 200
+responseTime: 189
+lastUpdated: 2025-04-11T01:47:28.978Z
 startTime: 2024-07-13T08:25:10.716Z
 generator: Upptime <https://github.com/upptime/upptime>
