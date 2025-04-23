@@ -7,17 +7,34 @@ sites:
     check: "tcp-ping"
     url: $WEBSITE_IP
     port: 80
-  # - name: Iran 1 - VIP 1
-  #   check: "tcp-ping"
-  #   url: $VIP1
-  #   port: $CLIENT_PORT
-  # - name: Iran 1 - VIP 2
-  #   check: "tcp-ping"
-  #   url: $VIP2
-  #   port: $CLIENT_PORT
+  - name: Iran 1 - AsiaTech
+    check: "tcp-ping"
+    url: $IR1
+    port: $CLIENT_PORT
+  - name: Iran 2 - MobinNet
+    check: "tcp-ping"
+    url: $IR2
+    port: $CLIENT_PORT
+  - name: Iran 3 - Ava
+    check: "tcp-ping"
+    url: $IR3
+    port: $CLIENT_PORT
   - name: Russia 1
     check: "tcp-ping"
     url: $RU1
+    port: $CLIENT_PORT
+  - name: Germany 1
+    check: "tcp-ping"
+    url: $DE
+    port: $CLIENT_PORT
+    
+  - name: Slovakia 1
+    check: "tcp-ping"
+    url: $SL1
+    port: $CLIENT_PORT
+  - name: Sweden 1
+    check: "tcp-ping"
+    url: $SE1
     port: $CLIENT_PORT
   - name: Out - Germany 1
     check: "tcp-ping"
@@ -33,7 +50,7 @@ status-website:
   cname: stats.masterstream.ir
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://cdn.discordapp.com/attachments/733899044551655526/860481528580014080/MasterStream-Logo.png
+  logoUrl: https://masterstream.ir/template/modules/main_template/images/logo-sm.png
   name: stats.masterstream.ir
   theme: dark
   navbar:
