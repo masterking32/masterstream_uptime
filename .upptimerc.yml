@@ -37,7 +37,7 @@ sites:
     check: "tcp-ping"
     url: $SL1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/sl.svg
+    icon: https://masterstream.ir/uploads/flags/sk.svg
   - name: Sweden 1
     check: "tcp-ping"
     url: $SE1
@@ -74,5 +74,8 @@ status-website:
 
 i18n:
   footer: <a href="https://masterstream.ir" target="_blank">MasterStream.iR</a>
+
+status-website:
+  themeUrl: https://masterstream.ir/template/stats-page.css?v=1
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
