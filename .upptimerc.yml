@@ -45,7 +45,7 @@ sites:
     port: $CLIENT_PORT
   - name: Chat Support
     check: "tcp-ping"
-    url: $Chat_Support
+    url: $CHAT_SUPPORT
     port: $CLIENT_PORT
 
 status-website:
