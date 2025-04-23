@@ -71,11 +71,8 @@ status-website:
     - title: Back to the MasterStream
       href: https://masterstream.ir
   introMessage: در این صفحه، تمام سرورهای مستراستریم جهت سرویس دهی به کاربران را مشاهده میکنید. همچنین تست پینگ سرورها از آمریکا انجام میشود و میزان در دسترس بودن سرورها در اینترنت را نمایش میدهد.
-
+  themeUrl: https://masterstream.ir/template/stats-page.css?v=1
 i18n:
   footer: <a href="https://masterstream.ir" target="_blank">MasterStream.iR</a>
-
-status-website:
-  themeUrl: https://masterstream.ir/template/stats-page.css?v=1
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
