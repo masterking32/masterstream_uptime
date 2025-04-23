@@ -100,19 +100,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "germany-1",
     "status": "up",
-    "uptime": "6.18%",
-    "uptimeDay": "6.18%",
-    "uptimeWeek": "6.18%",
-    "uptimeMonth": "6.18%",
-    "uptimeYear": "6.18%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 92,
     "timeDay": 92,
     "timeWeek": 92,
     "timeMonth": 92,
     "timeYear": 92,
-    "dailyMinutesDown": {
-      "2025-04-23": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Slovakia 1",
