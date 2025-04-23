@@ -25,9 +25,8 @@ sites:
     port: $CLIENT_PORT
   - name: Germany 1
     check: "tcp-ping"
-    url: $DE
+    url: $DE1
     port: $CLIENT_PORT
-    
   - name: Slovakia 1
     check: "tcp-ping"
     url: $SL1
