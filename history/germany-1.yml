@@ -1,7 +1,7 @@
-url: $DE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-23T13:46:38.441Z
+url: $DE1
+status: up
+code: 200
+responseTime: 92
+lastUpdated: 2025-04-23T13:48:45.806Z
 startTime: 2025-04-23T13:46:38.434Z
 generator: Upptime <https://github.com/upptime/upptime>
