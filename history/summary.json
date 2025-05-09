@@ -23,11 +23,11 @@
     "icon": "https://masterstream.ir/uploads/flags/ir.svg",
     "slug": "iran-1-asia-tech",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
     "time": 194,
     "timeDay": 192,
     "timeWeek": 187,
@@ -60,9 +60,9 @@
     "url": "$IR3",
     "icon": "https://masterstream.ir/uploads/flags/ir.svg",
     "slug": "iran-3-ava",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 209,
     "timeMonth": 220,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-09": 0
+    }
   },
   {
     "name": "Russia 1",
