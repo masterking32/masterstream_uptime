@@ -22,18 +22,19 @@
     "url": "$IR1",
     "icon": "https://masterstream.ir/uploads/flags/ir.svg",
     "slug": "iran-1-asia-tech",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 197,
     "timeDay": 242,
     "timeWeek": 202,
     "timeMonth": 197,
     "timeYear": 197,
     "dailyMinutesDown": {
+      "2025-05-14": 2,
       "2025-04-27": 138
     }
   },
@@ -42,9 +43,9 @@
     "url": "$IR2",
     "icon": "https://masterstream.ir/uploads/flags/ir.svg",
     "slug": "iran-2-mobin-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +54,9 @@
     "timeWeek": 203,
     "timeMonth": 197,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-14": 0
+    }
   },
   {
     "name": "Iran 3 - Ava",
@@ -61,11 +64,11 @@
     "icon": "https://masterstream.ir/uploads/flags/ir.svg",
     "slug": "iran-3-ava",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.98%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
     "time": 223,
     "timeDay": 255,
     "timeWeek": 223,
