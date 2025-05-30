@@ -1,7 +1,7 @@
 url: $SE1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-30T23:34:27.776Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2025-05-30T23:40:41.445Z
 startTime: 2025-04-23T13:46:41.732Z
 generator: Upptime <https://github.com/upptime/upptime>
