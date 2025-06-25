@@ -8,17 +8,17 @@ sites:
     url: $WEBSITE_IP
     port: 80
     icon: https://masterstream.ir/uploads/website-icon.png
-  - name: Iran 1 - AsiaTech
+  - name: Iran 1 - Ava
     check: "tcp-ping"
     url: $IR1
     port: $CLIENT_PORT
     icon: https://masterstream.ir/uploads/flags/ir.svg
-  - name: Iran 2 - MobinNet
+  - name: Iran 2 - AsiaTech
     check: "tcp-ping"
     url: $IR2
     port: $CLIENT_PORT
     icon: https://masterstream.ir/uploads/flags/ir.svg
-  - name: Iran 3 - Ava
+  - name: Iran 3 - Respina
     check: "tcp-ping"
     url: $IR3
     port: $CLIENT_PORT
