@@ -58,19 +58,19 @@
     "url": "$IR3",
     "icon": "https://masterstream.ir/uploads/flags/ir.svg",
     "slug": "iran-3-respina",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 177,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "status": "up",
+    "uptime": "98.50%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
+    "time": 234,
+    "timeDay": 193,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-06-30": 0
+      "2025-06-30": 93
     }
   },
   {
