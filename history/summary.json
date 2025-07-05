@@ -22,10 +22,10 @@
     "url": "$IR1",
     "icon": "https://masterstream.ir/uploads/flags/ir.svg",
     "slug": "iran-1-ava",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
@@ -33,7 +33,9 @@
     "timeWeek": 251,
     "timeMonth": 249,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-05": 1
+    }
   },
   {
     "name": "Iran 2 - AsiaTech",
@@ -59,11 +61,11 @@
     "icon": "https://masterstream.ir/uploads/flags/ir.svg",
     "slug": "iran-3-respina",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 246,
     "timeDay": 234,
     "timeWeek": 245,
