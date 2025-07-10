@@ -18,7 +18,7 @@ sites:
     url: $IR2
     port: $CLIENT_PORT
     icon: https://masterstream.ir/uploads/flags/ir.svg
-  - name: Iran 3 - Respina
+  - name: Iran 3 - Pishgaman
     check: "tcp-ping"
     url: $IR3
     port: $CLIENT_PORT
