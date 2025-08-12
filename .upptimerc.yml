@@ -38,11 +38,6 @@ sites:
     url: $DE1
     port: $CLIENT_PORT
     icon: https://masterstream.ir/uploads/flags/de.svg
-  - name: Slovakia 1
-    check: "tcp-ping"
-    url: $SL1
-    port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/sk.svg
   - name: Out - Germany 1
     check: "tcp-ping"
     url: $ODE_1
