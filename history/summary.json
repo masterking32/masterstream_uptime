@@ -67,7 +67,7 @@
     "slug": "iran-3-pishgaman",
     "status": "up",
     "uptime": "98.09%",
-    "uptimeDay": "48.82%",
+    "uptimeDay": "49.32%",
     "uptimeWeek": "91.15%",
     "uptimeMonth": "97.96%",
     "uptimeYear": "98.09%",
@@ -147,9 +147,9 @@
     "url": "$SL1",
     "icon": "https://masterstream.ir/uploads/flags/sk.svg",
     "slug": "slovakia-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -158,7 +158,9 @@
     "timeWeek": 124,
     "timeMonth": 126,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-12": 0
+    }
   },
   {
     "name": "Out - Germany 1",
