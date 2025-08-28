@@ -4,10 +4,10 @@
     "url": "$WEBSITE_IP",
     "icon": "https://masterstream.ir/uploads/website-icon.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
@@ -15,7 +15,9 @@
     "timeWeek": 115,
     "timeMonth": 116,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 1
+    }
   },
   {
     "name": "Iran 1 - Ava",
@@ -66,11 +68,11 @@
     "icon": "https://masterstream.ir/uploads/flags/ir.svg",
     "slug": "iran-3-pishgaman",
     "status": "up",
-    "uptime": "94.85%",
-    "uptimeDay": "0.01%",
+    "uptime": "94.88%",
+    "uptimeDay": "30.07%",
     "uptimeWeek": "75.31%",
     "uptimeMonth": "91.79%",
-    "uptimeYear": "94.85%",
+    "uptimeYear": "94.88%",
     "time": 246,
     "timeDay": 0,
     "timeWeek": 201,
@@ -154,9 +156,9 @@
     "url": "$ODE_1",
     "icon": "https://masterstream.ir/uploads/flags/de.svg",
     "slug": "out-germany-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,7 +167,9 @@
     "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 0
+    }
   },
   {
     "name": "Out - France 1",
