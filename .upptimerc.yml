@@ -3,11 +3,6 @@ owner: masterking32 # Your GitHub organization or username, where this repositor
 repo: masterstream_uptime # The name of this repository
 
 sites:
-  - name: Website
-    check: "tcp-ping"
-    url: $WEBSITE_IP
-    port: 80
-    icon: https://masterstream.ir/uploads/website-icon.png
   - name: Iran 1 - Ava
     check: "tcp-ping"
     url: $IR1
@@ -28,19 +23,9 @@ sites:
     url: $RU1
     port: $CLIENT_PORT
     icon: https://masterstream.ir/uploads/flags/ru.svg
-  - name: Russia 2
-    check: "tcp-ping"
-    url: $RU2
-    port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/ru.svg
   - name: Germany 1
     check: "tcp-ping"
     url: $DE1
-    port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/de.svg
-  - name: Out - Germany 1
-    check: "tcp-ping"
-    url: $ODE_1
     port: $CLIENT_PORT
     icon: https://masterstream.ir/uploads/flags/de.svg
   - name: Out - France 1
