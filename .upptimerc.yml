@@ -3,6 +3,11 @@ owner: masterking32 # Your GitHub organization or username, where this repositor
 repo: masterstream_uptime # The name of this repository
 
 sites:
+  - name: Website
+    check: "tcp-ping"
+    url: $WEBSITE_IP
+    port: 80
+    icon: https://masterstream.ir/uploads/website-icon.png
   - name: Iran 1 - Ava
     check: "tcp-ping"
     url: $IR1
@@ -28,6 +33,11 @@ sites:
     url: $DE1
     port: $CLIENT_PORT
     icon: https://masterstream.ir/uploads/flags/de.svg
+  - name: Out - Germany 1
+    check: "tcp-ping"
+    url: $ODE_1
+    port: $CLIENT_PORT
+    icon: https://masterstream.ir/uploads/flags/de.svg
   - name: Out - France 1
     check: "tcp-ping"
     url: $OFR_1
@@ -51,7 +61,7 @@ status-website:
     - title: Back to the MasterStream
       href: https://masterstream.ir
   introMessage: در این صفحه، تمام سرورهای مستراستریم جهت سرویس دهی به کاربران را مشاهده میکنید. همچنین تست پینگ سرورها از آمریکا انجام میشود و میزان در دسترس بودن سرورها در اینترنت را نمایش میدهد.
-  themeUrl: https://masterstream.ir/template/stats-page.css?v=1
+  themeUrl: https://masterstream.ir/stats-page.css?v=1
 i18n:
   footer: <a href="https://masterstream.ir" target="_blank">MasterStream.iR</a>
 # Upptime also supports notifications, assigning issues, and more
