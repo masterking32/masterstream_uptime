@@ -7,59 +7,59 @@ sites:
     check: "tcp-ping"
     url: $WEBSITE_IP
     port: 80
-    icon: https://masterstream.ir/uploads/website-icon.png
+    icon: https://masterstream.ir/images/website-icon.png
   - name: Iran 1 - Ava
     check: "tcp-ping"
     url: $IR1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/ir.svg
+    icon: https://masterstream.ir/images/flags/flags/ir.svg
   - name: Iran 2 - AsiaTech
     check: "tcp-ping"
     url: $IR2
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/ir.svg
+    icon: https://masterstream.ir/images/flags/flags/ir.svg
   - name: Iran 3 - Pishgaman
     check: "tcp-ping"
     url: $IR3
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/ir.svg
+    icon: https://masterstream.ir/images/flags/flags/ir.svg
   - name: Russia 1
     check: "tcp-ping"
     url: $RU1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/ru.svg
+    icon: https://masterstream.ir/images/flags/flags/ru.svg
   - name: Russia 2
     check: "tcp-ping"
     url: $RU2
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/ru.svg
+    icon: https://masterstream.ir/images/flags/flags/ru.svg
   - name: Germany 1
     check: "tcp-ping"
     url: $DE1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/de.svg
+    icon: https://masterstream.ir/images/flags/flags/de.svg
   - name: Out - Germany 1
     check: "tcp-ping"
     url: $ODE_1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/de.svg
+    icon: https://masterstream.ir/images/flags/flags/de.svg
   - name: Out - France 1
     check: "tcp-ping"
     url: $OFR_1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/flags/fr.svg
+    icon: https://masterstream.ir/images/flags/flags/fr.svg
   - name: Chat Support
     check: "tcp-ping"
     url: $CHAT_SUPPORT
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/uploads/chat-icon.png
+    icon: https://masterstream.ir/images/flags/chat-icon.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: stats.masterstream.ir
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://masterstream.ir/template/modules/main_template/images/logo-sm.png
+  logoUrl: https://masterstream.ir/images/logo-sm.webp
   name: stats.masterstream.ir
   theme: dark
   navbar:
