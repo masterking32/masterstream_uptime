@@ -52,7 +52,7 @@ sites:
     check: "tcp-ping"
     url: $CHAT_SUPPORT
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/chat-icon.png
+    icon: https://masterstream.ir/images/chat-icon.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
