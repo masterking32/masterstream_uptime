@@ -12,42 +12,42 @@ sites:
     check: "tcp-ping"
     url: $IR1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/flags/ir.svg
+    icon: https://masterstream.ir/images/flags/ir.svg
   - name: Iran 2 - AsiaTech
     check: "tcp-ping"
     url: $IR2
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/flags/ir.svg
+    icon: https://masterstream.ir/images/flags/ir.svg
   - name: Iran 3 - Pishgaman
     check: "tcp-ping"
     url: $IR3
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/flags/ir.svg
+    icon: https://masterstream.ir/images/flags/ir.svg
   - name: Russia 1
     check: "tcp-ping"
     url: $RU1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/flags/ru.svg
+    icon: https://masterstream.ir/images/flags/ru.svg
   - name: Russia 2
     check: "tcp-ping"
     url: $RU2
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/flags/ru.svg
+    icon: https://masterstream.ir/images/flags/ru.svg
   - name: Germany 1
     check: "tcp-ping"
     url: $DE1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/flags/de.svg
+    icon: https://masterstream.ir/images/flags/de.svg
   - name: Out - Germany 1
     check: "tcp-ping"
     url: $ODE_1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/flags/de.svg
+    icon: https://masterstream.ir/images/flags/de.svg
   - name: Out - France 1
     check: "tcp-ping"
     url: $OFR_1
     port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/flags/fr.svg
+    icon: https://masterstream.ir/images/flags/fr.svg
   - name: Chat Support
     check: "tcp-ping"
     url: $CHAT_SUPPORT
