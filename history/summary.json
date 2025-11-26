@@ -51,9 +51,9 @@
     "slug": "iran-2-asia-tech",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.92%",
     "time": 224,
     "timeDay": 289,
@@ -61,7 +61,6 @@
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-11-26": 13,
       "2025-11-01": 37,
       "2025-10-31": 32,
       "2025-08-03": 18,
@@ -206,9 +205,9 @@
     "url": "$OFR_1",
     "icon": "https://masterstream.ir/images/flags/fr.svg",
     "slug": "out-france-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -217,7 +216,9 @@
     "timeWeek": 111,
     "timeMonth": 116,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-26": 0
+    }
   },
   {
     "name": "Chat Support",
