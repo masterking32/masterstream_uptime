@@ -23,6 +23,16 @@ sites:
     url: $IR3
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
+  - name: Iran 4 - Respina
+    check: "tcp-ping"
+    url: $IR4
+    port: $CLIENT_PORT
+    icon: https://masterstream.ir/images/flags/ir.svg
+  - name: Iran 5 - MobinNet
+    check: "tcp-ping"
+    url: $IR5
+    port: $CLIENT_PORT
+    icon: https://masterstream.ir/images/flags/ir.svg
   - name: Russia 1
     check: "tcp-ping"
     url: $RU1
