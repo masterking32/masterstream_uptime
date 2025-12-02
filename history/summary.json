@@ -260,7 +260,7 @@
     "icon": "https://masterstream.ir/images/chat-icon.png",
     "slug": "chat-support",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -270,6 +270,6 @@
     "timeWeek": 123,
     "timeMonth": 117,
     "timeYear": 117,
-    "dailyMinutesDown": {    }
+    "dailyMinutesDown": {}
   }
 ]
