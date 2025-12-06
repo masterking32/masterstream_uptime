@@ -53,6 +53,11 @@ sites:
     url: $DE2
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/de.svg
+  - name: Germany 3
+    check: "tcp-ping"
+    url: $DE3
+    port: $CLIENT_PORT
+    icon: https://masterstream.ir/images/flags/de.svg
   - name: Out - Germany 1
     check: "tcp-ping"
     url: $ODE_1
