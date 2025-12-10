@@ -28,7 +28,7 @@ sites:
     url: $IR4
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 5 - MobinNet
+  - name: Iran 5 - Irancell
     check: "tcp-ping"
     url: $IR5
     port: $CLIENT_PORT
