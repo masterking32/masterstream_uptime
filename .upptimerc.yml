@@ -13,12 +13,12 @@ sites:
     url: $IR1
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 2 - AsiaTech
+  - name: Iran 2 - Pishgaman
     check: "tcp-ping"
     url: $IR2
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 3 - Pishgaman
+  - name: Iran 3 - ParsOnline
     check: "tcp-ping"
     url: $IR3
     port: $CLIENT_PORT
