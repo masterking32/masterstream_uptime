@@ -68,19 +68,19 @@
     "url": "$IR3",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-3-pars-online",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 256,
-    "timeDay": 228,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "status": "up",
+    "uptime": "97.91%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "97.91%",
+    "time": 284,
+    "timeDay": 275,
+    "timeWeek": 284,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-12-20": 0
+      "2025-12-20": 32
     }
   },
   {
