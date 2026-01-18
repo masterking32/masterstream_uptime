@@ -1,7 +1,7 @@
 url: $ODE_1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-18T09:01:41.113Z
+status: up
+code: 200
+responseTime: 111
+lastUpdated: 2026-01-18T09:10:31.701Z
 startTime: 2025-08-31T19:14:37.094Z
 generator: Upptime <https://github.com/upptime/upptime>
