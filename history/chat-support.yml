@@ -1,7 +1,7 @@
 url: $CHAT_SUPPORT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-20T15:19:57.430Z
+status: up
+code: 200
+responseTime: 144
+lastUpdated: 2026-01-20T15:36:55.557Z
 startTime: 2025-04-23T13:53:26.601Z
 generator: Upptime <https://github.com/upptime/upptime>
