@@ -38,11 +38,6 @@ sites:
     url: $RU1
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ru.svg
-  - name: Russia 2
-    check: "tcp-ping"
-    url: $RU2
-    port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/ru.svg
   - name: Germany 1
     check: "tcp-ping"
     url: $DE1
