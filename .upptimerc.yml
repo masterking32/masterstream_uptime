@@ -18,7 +18,7 @@ sites:
     url: $IR2
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 3 - ParsOnline
+  - name: Iran 3 - Ava
     check: "tcp-ping"
     url: $IR3
     port: $CLIENT_PORT
