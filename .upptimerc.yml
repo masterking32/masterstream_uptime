@@ -23,7 +23,7 @@ sites:
     url: $IR3
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 4 - Respina
+  - name: Iran 4 - ITC (Shiraz)
     check: "tcp-ping"
     url: $IR4
     port: $CLIENT_PORT
