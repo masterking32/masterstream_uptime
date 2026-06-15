@@ -8,7 +8,7 @@ sites:
     url: $WEBSITE_IP
     port: 80
     icon: https://masterstream.ir/images/website-icon.png
-  - name: Iran 1 - Ava
+  - name: Iran 1 - Noor
     check: "tcp-ping"
     url: $IR1
     port: $CLIENT_PORT
