@@ -6,16 +6,18 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 93,
     "timeWeek": 128,
     "timeMonth": 120,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-21": 4
+    }
   },
   {
     "name": "Iran 1 - Noor",
@@ -44,7 +46,7 @@
     "uptime": "34.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.19%",
+    "uptimeMonth": "45.25%",
     "uptimeYear": "34.65%",
     "time": 214,
     "timeDay": 174,
@@ -303,9 +305,9 @@
     "url": "$ODE_1",
     "icon": "https://masterstream.ir/images/flags/de.svg",
     "slug": "out-germany-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -314,7 +316,9 @@
     "timeWeek": 127,
     "timeMonth": 120,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-21": 0
+    }
   },
   {
     "name": "Out - France 1",
