@@ -43,11 +43,11 @@
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-2-pishgaman",
     "status": "up",
-    "uptime": "34.99%",
+    "uptime": "35.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.38%",
-    "uptimeYear": "34.99%",
+    "uptimeMonth": "48.48%",
+    "uptimeYear": "35.00%",
     "time": 213,
     "timeDay": 168,
     "timeWeek": 213,
@@ -229,11 +229,11 @@
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-5-systec",
     "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "75.30%",
-    "uptimeWeek": "96.47%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
+    "uptime": "98.63%",
+    "uptimeDay": "72.25%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
     "time": 195,
     "timeDay": 0,
     "timeWeek": 205,
@@ -242,7 +242,7 @@
     "dailyMinutesDown": {
       "2026-06-07": 91,
       "2026-06-21": 356,
-      "2026-06-22": 0
+      "2026-06-22": 44
     }
   },
   {
