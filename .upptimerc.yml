@@ -13,7 +13,7 @@ sites:
     url: $IR1
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 2 - Pishgaman
+  - name: Iran 2 - AsiaTech
     check: "tcp-ping"
     url: $IR2
     port: $CLIENT_PORT
@@ -31,6 +31,11 @@ sites:
   - name: Iran 5 - Systec
     check: "tcp-ping"
     url: $IR5
+    port: $CLIENT_PORT
+    icon: https://masterstream.ir/images/flags/ir.svg
+  - name: Iran 6 - Fanap
+    check: "tcp-ping"
+    url: $IR6
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
   - name: Germany 1
