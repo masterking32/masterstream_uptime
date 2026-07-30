@@ -136,18 +136,18 @@
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-6-fanap",
     "status": "down",
-    "uptime": "55.95%",
-    "uptimeDay": "55.95%",
-    "uptimeWeek": "55.95%",
-    "uptimeMonth": "55.95%",
-    "uptimeYear": "55.95%",
+    "uptime": "36.68%",
+    "uptimeDay": "36.68%",
+    "uptimeWeek": "36.68%",
+    "uptimeMonth": "36.68%",
+    "uptimeYear": "36.68%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 0
+      "2026-07-30": 1
     }
   },
   {
