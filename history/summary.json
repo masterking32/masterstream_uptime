@@ -45,21 +45,21 @@
     "url": "$IR2",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-2-asia-tech",
-    "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "status": "up",
+    "uptime": "98.67%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.26%",
     "time": 226,
-    "timeDay": 221,
-    "timeWeek": 203,
-    "timeMonth": 197,
+    "timeDay": 223,
+    "timeWeek": 206,
+    "timeMonth": 199,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-10-31": 32,
       "2025-11-01": 37,
-      "2026-08-11": 0
+      "2026-08-11": 61
     }
   },
   {
