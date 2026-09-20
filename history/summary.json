@@ -110,9 +110,9 @@
     "url": "$IR5",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-5-systec",
-    "status": "up",
+    "status": "down",
     "uptime": "97.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.57%",
@@ -131,7 +131,8 @@
       "2026-07-22": 459,
       "2026-07-31": 209,
       "2026-08-11": 59,
-      "2026-08-10": 48
+      "2026-08-10": 48,
+      "2026-09-20": 0
     }
   },
   {
