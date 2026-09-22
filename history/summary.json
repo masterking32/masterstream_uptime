@@ -25,20 +25,20 @@
     "url": "$IR1",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-1-noor",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "88.50%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.84%",
     "time": 205,
-    "timeDay": 432,
-    "timeWeek": 230,
-    "timeMonth": 208,
+    "timeDay": 328,
+    "timeWeek": 229,
+    "timeMonth": 209,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2026-06-25": 57,
-      "2026-09-22": 0
+      "2026-09-22": 166
     }
   },
   {
@@ -51,7 +51,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 221,
     "timeDay": 225,
     "timeWeek": 197,
@@ -87,11 +87,11 @@
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-4-itc-shiraz",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.47%",
     "time": 226,
     "timeDay": 229,
     "timeWeek": 201,
@@ -141,9 +141,9 @@
     "url": "$IR6",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-6-fanap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -154,7 +154,8 @@
     "timeYear": 211,
     "dailyMinutesDown": {
       "2026-08-18": 124,
-      "2026-08-17": 0
+      "2026-08-17": 0,
+      "2026-09-22": 0
     }
   },
   {
