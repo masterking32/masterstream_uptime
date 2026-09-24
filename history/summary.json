@@ -25,12 +25,12 @@
     "url": "$IR1",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-1-noor",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.85%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.83%",
     "time": 204,
     "timeDay": 188,
     "timeWeek": 232,
@@ -38,7 +38,8 @@
     "timeYear": 204,
     "dailyMinutesDown": {
       "2026-06-25": 57,
-      "2026-09-22": 166
+      "2026-09-22": 166,
+      "2026-09-24": 29
     }
   },
   {
@@ -46,12 +47,12 @@
     "url": "$IR2",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-2-asia-tech",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.81%",
     "time": 221,
     "timeDay": 191,
     "timeWeek": 202,
@@ -60,7 +61,8 @@
     "dailyMinutesDown": {
       "2025-10-31": 32,
       "2025-11-01": 37,
-      "2026-08-11": 61
+      "2026-08-11": 61,
+      "2026-09-24": 25
     }
   },
   {
@@ -68,30 +70,32 @@
     "url": "$IR3",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-3-mobin-idc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 202,
     "timeDay": 192,
     "timeWeek": 209,
     "timeMonth": 204,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-24": 21
+    }
   },
   {
     "name": "Iran 4 - ITC (Shiraz)",
     "url": "$IR4",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-4-itc-shiraz",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "87.11%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.36%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "88.62%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.35%",
     "time": 226,
     "timeDay": 251,
     "timeWeek": 220,
@@ -104,7 +108,8 @@
       "2026-06-17": 97,
       "2026-07-24": 144,
       "2026-09-09": 186,
-      "2026-09-23": 186
+      "2026-09-23": 186,
+      "2026-09-24": 17
     }
   },
   {
@@ -112,11 +117,11 @@
     "url": "$IR5",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-5-systec",
-    "status": "up",
+    "status": "down",
     "uptime": "97.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "97.47%",
     "time": 199,
     "timeDay": 202,
@@ -134,7 +139,8 @@
       "2026-07-31": 209,
       "2026-08-11": 59,
       "2026-08-10": 48,
-      "2026-09-20": 308
+      "2026-09-20": 308,
+      "2026-09-24": 13
     }
   },
   {
@@ -142,11 +148,11 @@
     "url": "$IR6",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-6-fanap",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "33.92%",
-    "uptimeWeek": "87.55%",
-    "uptimeMonth": "97.13%",
+    "uptimeDay": "89.19%",
+    "uptimeWeek": "87.46%",
+    "uptimeMonth": "97.11%",
     "uptimeYear": "98.29%",
     "time": 210,
     "timeDay": 200,
@@ -157,7 +163,8 @@
       "2026-08-18": 124,
       "2026-08-17": 0,
       "2026-09-23": 1201,
-      "2026-09-22": 54
+      "2026-09-22": 54,
+      "2026-09-24": 9
     }
   },
   {
@@ -165,27 +172,29 @@
     "url": "$DE1",
     "icon": "https://masterstream.ir/images/flags/de.svg",
     "slug": "germany-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 123,
     "timeWeek": 131,
     "timeMonth": 123,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-24": 5
+    }
   },
   {
     "name": "Germany 2",
     "url": "$DE2",
     "icon": "https://masterstream.ir/images/flags/de.svg",
     "slug": "germany-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -196,7 +205,8 @@
     "timeYear": 123,
     "dailyMinutesDown": {
       "2026-01-21": 50,
-      "2026-02-11": 21
+      "2026-02-11": 21,
+      "2026-09-24": 0
     }
   },
   {
