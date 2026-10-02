@@ -8,34 +8,29 @@ sites:
     url: $WEBSITE_IP
     port: 80
     icon: https://masterstream.ir/images/website-icon.png
-  - name: Iran 1 - Noor
+  - name: Iran 1 - Parvaresh Dadeha
     check: "tcp-ping"
     url: $IR1
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 2 - AsiaTech
+  - name: Iran 2 - Mobin
     check: "tcp-ping"
     url: $IR2
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 3 - Mobin IDC
+  - name: Iran 3 - Nour
     check: "tcp-ping"
     url: $IR3
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 4 - ITC (Shiraz)
+  - name: Iran 4 - AsiaTech
     check: "tcp-ping"
     url: $IR4
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 5 - Systec
+  - name: Iran 5 - Respina (Shiraz)
     check: "tcp-ping"
     url: $IR5
-    port: $CLIENT_PORT
-    icon: https://masterstream.ir/images/flags/ir.svg
-  - name: Iran 6 - Fanap
-    check: "tcp-ping"
-    url: $IR6
     port: $CLIENT_PORT
     icon: https://masterstream.ir/images/flags/ir.svg
   - name: Germany 1
