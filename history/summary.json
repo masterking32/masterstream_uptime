@@ -105,9 +105,9 @@
     "url": "$IR5",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-5-respina-shiraz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +116,9 @@
     "timeWeek": 194,
     "timeMonth": 194,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-16": 0
+    }
   },
   {
     "name": "Germany 1",
