@@ -66,11 +66,11 @@
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-3-nour",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 192,
     "timeDay": 188,
     "timeWeek": 210,
@@ -85,10 +85,10 @@
     "url": "$IR4",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-4-asia-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 185,
@@ -97,7 +97,8 @@
     "timeMonth": 185,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2026-10-08": 18
+      "2026-10-08": 18,
+      "2026-10-20": 1
     }
   },
   {
@@ -105,19 +106,20 @@
     "url": "$IR5",
     "icon": "https://masterstream.ir/images/flags/ir.svg",
     "slug": "iran-5-respina-shiraz",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.86%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
+    "status": "down",
+    "uptime": "98.77%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
     "time": 199,
     "timeDay": 206,
     "timeWeek": 215,
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-10-16": 317
+      "2026-10-16": 317,
+      "2026-10-20": 0
     }
   },
   {
